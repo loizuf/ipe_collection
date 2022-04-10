@@ -1,4 +1,9 @@
-## diamonds.isy --- Diamond marks
+
+## Diamond marks
 Provides diamond marks.
-## hexagons.isy --- Hexagon marks
-Provides hexagonal marks in two versions vertical and horizontal.
+
+![mark/diamond(sx) picture](./markdiamond(sx).svg)
+mark/diamond(sx)
+
+![mark/fdiamond(sfx) picture](./markfdiamond(sfx).svg)
+mark/fdiamond(sfx)
