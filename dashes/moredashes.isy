@@ -1,0 +1,17 @@
+<!---
+    TITLE: More dashes
+    DESC: Provides several new dash styles
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="More dashes">
+<dashstyle name="long dashed" value="[12] 0"/>
+<dashstyle name="long dash dotted" value="[12 6 1 6] 0"/>
+<dashstyle name="dense dotted" value="[0.5 0.5] 0"/>
+<dashstyle name="medium dotted" value="[1 1.5] 0"/>
+<dashstyle name="dense dashed" value="[8 3] 0"/>
+<dashstyle name="dashed-narrow" value="[2] 0"/>
+<dashstyle name="dotted-narrow" value="[1 1] 0"/>
+<dashstyle name="dashed-narrower" value="[1] 0"/>
+<dashstyle name="dotted-narrower" value="[0.5 0.5] 0"/>
+</ipestyle>
