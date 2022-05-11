@@ -2,7 +2,7 @@
 ## More dashes
 Provides several new dash styles
 
-<img src="../../assets/long dashed.svg" width="48">long dashed
+<img src="../../assets/dashes/long dashed.svg" width="48">long dashed
 
 <img src="../../assets//long dash dotted.svg" width="48">long dash dotted
 
