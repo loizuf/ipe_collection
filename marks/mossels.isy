@@ -1,6 +1,10 @@
+<!--
+    TITLE: Mossels marks
+    DESC: Provides box shaped marks with a 4 inside and a tiled backdrop (implicitly uses various other styles). Originally provided by Maarten Löffler.
+-->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
-<ipestyle name="mossels">
+<ipestyle name="Mossels marks">
 
 <gridsize name="1 pts" value="1"/>
 <gridsize name="2 pts" value="2"/>

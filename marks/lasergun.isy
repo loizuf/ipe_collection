@@ -1,6 +1,10 @@
+<!--
+    TITLE: Lasergun marks
+    DESC: Provides lasergun marks (implicitly uses various other styles). Originally provided by Maarten Löffler.
+-->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
-<ipestyle name="lasergun">
+<ipestyle name="Lasergun marks">
 <symbol name="orc(spx)">
 <path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
 0 0 m
