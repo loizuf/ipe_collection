@@ -1,0 +1,16 @@
+<!---
+    TITLE: Extended dashes
+    DESC: Provides several new dash styles (originally extracted from the extended_colors style file)
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="More dashes">
+<dashstyle name="W dashed normal" value="[1 1.7] 0"/>
+<dashstyle name="W dashed heavier" value="[2 3] 0"/>
+<dashstyle name="W dashed fat" value="[3 5.1] 0"/>
+<dashstyle name="W dashed ultrafat" value="[5 8.5] 0"/>
+<dashstyle name="W dot normal" value="[0.01 0.8] 0"/>
+<dashstyle name="W dot heavier" value="[0.01 1.6] 0"/>
+<dashstyle name="W dot fat" value="[0.01 2.4] 0"/>
+<dashstyle name="W dot ultrafat" value="[0.01 4] 0"/>
+</ipestyle>

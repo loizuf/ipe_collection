@@ -1,0 +1,36 @@
+<!---
+    TITLE: All PDF Transitions
+    DESC: Provides all 28 PDF supported slide transitions.
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipe SYSTEM "ipe.dtd">
+<ipestyle name="All PDF transitions">
+<effect name="Effect 0" duration="3" transition="3" effect="0"/>
+<effect name="Effect 1" duration="3" transition="3" effect="1"/>
+<effect name="Effect 2" duration="3" transition="3" effect="2"/>
+<effect name="Effect 3" duration="3" transition="3" effect="3"/>
+<effect name="Effect 4" duration="3" transition="3" effect="4"/>
+<effect name="Effect 5" duration="3" transition="3" effect="5"/>
+<effect name="Effect 6" duration="3" transition="3" effect="6"/>
+<effect name="Effect 7" duration="3" transition="3" effect="7"/>
+<effect name="Effect 8" duration="3" transition="3" effect="8"/>
+<effect name="Effect 9" duration="3" transition="3" effect="9"/>
+<effect name="Effect 10" duration="3" transition="3" effect="10"/>
+<effect name="Effect 11" duration="3" transition="3" effect="11"/>
+<effect name="Effect 12" duration="3" transition="3" effect="12"/>
+<effect name="Effect 13" duration="3" transition="3" effect="13"/>
+<effect name="Effect 14" duration="3" transition="3" effect="14"/>
+<effect name="Effect 15" duration="3" transition="3" effect="15"/>
+<effect name="Effect 16" duration="3" transition="3" effect="16"/>
+<effect name="Effect 17" duration="3" transition="3" effect="17"/>
+<effect name="Effect 18" duration="3" transition="3" effect="18"/>
+<effect name="Effect 19" duration="3" transition="3" effect="19"/>
+<effect name="Effect 20" duration="3" transition="3" effect="20"/>
+<effect name="Effect 21" duration="3" transition="3" effect="21"/>
+<effect name="Effect 22" duration="3" transition="3" effect="22"/>
+<effect name="Effect 23" duration="3" transition="3" effect="23"/>
+<effect name="Effect 24" duration="3" transition="3" effect="24"/>
+<effect name="Effect 25" duration="3" transition="3" effect="25"/>
+<effect name="Effect 26" duration="3" transition="3" effect="26"/>
+<effect name="Effect 27" duration="3" transition="3" effect="27"/>
+</ipestyle>
