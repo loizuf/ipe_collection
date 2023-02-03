@@ -1,0 +1,218 @@
+<!--
+    TITLE: Coconut marks
+    DESC: Provides mossel shaped marks (implicitly uses various other styles). Originally provided by Maarten Löffler.
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Coconut marks">
+
+
+<symbol name="mark/coconut_red">
+<group matrix="1.8 0 0 1.8 -676.8 -1108.8">
+<path matrix="0.25 0 0 0.25 284 464" stroke="coconut1" fill="red" pen="thin">
+340 640
+396 640
+400 576
+336 576 u
+</path>
+<path stroke="coconut1" fill="red" pen="thin">
+371.343 618.764
+370.415 617.167
+372.346 617.242 u
+</path>
+<path stroke="coconut1" fill="red" pen="thin">
+372.903 619.284
+372.049 618.133
+373.497 617.798 u
+</path>
+<path stroke="coconut1" fill="red" pen="thin">
+372.68 617.39
+371.343 616.165
+373.274 615.719 u
+</path>
+</group>
+</symbol>
+<symbol name="mark/coconut_blue">
+<group matrix="1.8 0 0 1.8 -676.8 -1108.8">
+<path matrix="0.25 0 0 0.25 284 464" stroke="coconut1" fill="blue" pen="thin">
+340 640
+396 640
+400 576
+336 576 u
+</path>
+<path stroke="coconut1" fill="blue" pen="thin">
+371.343 618.764
+370.415 617.167
+372.346 617.242 u
+</path>
+<path stroke="coconut1" fill="blue" pen="thin">
+372.903 619.284
+372.049 618.133
+373.497 617.798 u
+</path>
+<path stroke="coconut1" fill="blue" pen="thin">
+372.68 617.39
+371.343 616.165
+373.274 615.719 u
+</path>
+</group>
+</symbol>
+<symbol name="mark/coconut_green">
+<group matrix="1.8 0 0 1.8 -676.8 -1108.8">
+<path matrix="0.25 0 0 0.25 284 464" stroke="coconut1" fill="green" pen="thin">
+340 640
+396 640
+400 576
+336 576 u
+</path>
+<path stroke="coconut1" fill="green" pen="thin">
+371.343 618.764
+370.415 617.167
+372.346 617.242 u
+</path>
+<path stroke="coconut1" fill="green" pen="thin">
+372.903 619.284
+372.049 618.133
+373.497 617.798 u
+</path>
+<path stroke="coconut1" fill="green" pen="thin">
+372.68 617.39
+371.343 616.165
+373.274 615.719 u
+</path>
+</group>
+</symbol>
+<symbol name="mark/coconut_yellow">
+<group matrix="1.8 0 0 1.8 -676.8 -1108.8">
+<path matrix="0.25 0 0 0.25 284 464" stroke="coconut1" fill="yellow" pen="thin">
+340 640
+396 640
+400 576
+336 576 u
+</path>
+<path stroke="coconut1" fill="yellow" pen="thin">
+371.343 618.764
+370.415 617.167
+372.346 617.242 u
+</path>
+<path stroke="coconut1" fill="yellow" pen="thin">
+372.903 619.284
+372.049 618.133
+373.497 617.798 u
+</path>
+<path stroke="coconut1" fill="yellow" pen="thin">
+372.68 617.39
+371.343 616.165
+373.274 615.719 u
+</path>
+</group>
+</symbol>
+<symbol name="mark/coconut_purple">
+<group matrix="1.8 0 0 1.8 -676.8 -1108.8">
+<path matrix="0.25 0 0 0.25 284 464" stroke="coconut1" fill="purple" pen="thin">
+340 640
+396 640
+400 576
+336 576 u
+</path>
+<path stroke="coconut1" fill="purple" pen="thin">
+371.343 618.764
+370.415 617.167
+372.346 617.242 u
+</path>
+<path stroke="coconut1" fill="purple" pen="thin">
+372.903 619.284
+372.049 618.133
+373.497 617.798 u
+</path>
+<path stroke="coconut1" fill="purple" pen="thin">
+372.68 617.39
+371.343 616.165
+373.274 615.719 u
+</path>
+</group>
+</symbol>
+<symbol name="mark/coconut_orange">
+<group matrix="1.8 0 0 1.8 -676.8 -1108.8">
+<path matrix="0.25 0 0 0.25 284 464" stroke="coconut1" fill="orange" pen="thin">
+340 640
+396 640
+400 576
+336 576 u
+</path>
+<path stroke="coconut1" fill="orange" pen="thin">
+371.343 618.764
+370.415 617.167
+372.346 617.242 u
+</path>
+<path stroke="coconut1" fill="orange" pen="thin">
+372.903 619.284
+372.049 618.133
+373.497 617.798 u
+</path>
+<path stroke="coconut1" fill="orange" pen="thin">
+372.68 617.39
+371.343 616.165
+373.274 615.719 u
+</path>
+</group>
+</symbol>
+<symbol name="mark/coconut_gray">
+<group matrix="1.8 0 0 1.8 -676.8 -1108.8">
+<path matrix="0.25 0 0 0.25 284 464" stroke="coconut1" fill="gray1" pen="thin">
+340 640
+396 640
+400 576
+336 576 u
+</path>
+<path stroke="coconut1" fill="gray1" pen="thin">
+371.343 618.764
+370.415 617.167
+372.346 617.242 u
+</path>
+<path stroke="coconut1" fill="gray1" pen="thin">
+372.903 619.284
+372.049 618.133
+373.497 617.798 u
+</path>
+<path stroke="coconut1" fill="gray1" pen="thin">
+372.68 617.39
+371.343 616.165
+373.274 615.719 u
+</path>
+</group>
+</symbol>
+<symbol name="mark/coconut_teal">
+<group matrix="1.8 0 0 1.8 -676.8 -1108.8">
+<path matrix="0.25 0 0 0.25 284 464" stroke="coconut1" fill="teal" pen="thin">
+340 640
+396 640
+400 576
+336 576 u
+</path>
+<path stroke="coconut1" fill="teal" pen="thin">
+371.343 618.764
+370.415 617.167
+372.346 617.242 u
+</path>
+<path stroke="coconut1" fill="teal" pen="thin">
+372.903 619.284
+372.049 618.133
+373.497 617.798 u
+</path>
+<path stroke="coconut1" fill="teal" pen="thin">
+372.68 617.39
+371.343 616.165
+373.274 615.719 u
+</path>
+</group>
+</symbol>
+<color name="blue" value="0.15 0.15 0.65"/>
+<color name="brown" value="0.65 0.3 0.15"/>
+<color name="gray1" value="0.4"/>
+<color name="green" value="0.15 0.65 0.15"/>
+<color name="purple" value="0.8 0.25 0.8"/>
+<color name="red" value="0.75 0.2 0.2"/>
+<color name="yellow" value="0.8 0.8 0.25"/>
+
+</ipestyle>

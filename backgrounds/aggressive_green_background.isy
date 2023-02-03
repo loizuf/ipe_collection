@@ -1,0 +1,17 @@
+<!---
+    TITLE: Green background
+    DESC: This style adds a 1000pt by 1000pt object to the ipe file. It can be used as a template to create backgrounds of any size and color.
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Green background"> 
+<symbol name="Background">
+<path layer="background" fill="green">
+0 0 m
+1000 0 l
+1000 1000 l
+0 1000 l
+h
+</path>
+</symbol>
+</ipestyle>

@@ -1,0 +1,17 @@
+<!---
+    TITLE: Universiteit Utrecht colors
+    DESC: Provides 9 colors of the corporate identity colors of the University Utrecht.
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Universiteit Utrecht colors">
+<color name="UUyellow" value="1 0.804 0"/>
+<color name="UUred" value="0.753 0.039 0.208"/>
+<color name="UUorange" value="0.94921875 0.5859375 0.3671875"/>
+<color name="UUburgundy" value="0.6640625 0.08203125 0.33203125"/>
+<color name="UUbrown" value="0.4296875 0.23046875 0.13671875"/>
+<color name="UUgreen" value="0.140625 0.65234375 0.57421875"/>
+<color name="UUblue" value="0.3203125 0.52734375 0.7734375"/>
+<color name="UUdarkblue" value="0.0 0.0703125 0.25"/>
+<color name="UUpurple" value="0.35546875 0.12890625 0.5078125"/>
+</ipestyle>

@@ -1,0 +1,50 @@
+<!--
+    TITLE: Mossels marks
+    DESC: Provides box shaped marks with a 4 inside and a tiled backdrop (implicitly uses various other styles). Originally provided by Maarten Löffler.
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Mossels marks">
+
+<gridsize name="1 pts" value="1"/>
+<gridsize name="2 pts" value="2"/>
+
+<opacity name="50%" value="0.5"/>
+<opacity name="25%" value="0.25"/>
+
+<color name="message1" value="0.60 0.20 0.20"/>
+<color name="message2" value="0.60 0.40 0.20"/>
+<color name="message3" value="0.60 0.60 0.20"/>
+<color name="message4" value="0.40 0.60 0.20"/>
+<color name="message5" value="0.20 0.60 0.20"/>
+<color name="message6" value="0.20 0.60 0.40"/>
+<color name="message7" value="0.20 0.60 0.60"/>
+<color name="message8" value="0.20 0.40 0.60"/>
+<color name="message9" value="0.20 0.20 0.60"/>
+<color name="message10" value="0.40 0.20 0.60"/>
+<color name="message11" value="0.60 0.20 0.60"/>
+<color name="message12" value="0.60 0.20 0.40"/>
+
+<symbol name="mark/mossel(x)">
+<group>
+<path matrix="0.316667 0 0 0.316667 -41.8 -143.133" fill="message4" opacity="50%" tiling="pusher">
+128 456 m
+128 448 l
+136 448 l
+136 456 l
+h
+</path>
+<text matrix="0.316667 0 0 0.316667 -41.8 -143.485" pos="128 456" stroke="message4" type="minipage" width="8" height="5.388" depth="0.39" valign="top" size="small" style="center">4</text>
+<path matrix="0.316667 0 0 0.316667 -41.8 -143.133" stroke="message4" cap="1" join="1">
+128 456 m
+128 448 l
+136 448 l
+136 456 l
+h
+</path>
+</group>
+</symbol>
+
+<tiling name="pusher" angle="40" step="1.5" width="0.5"/>
+<dashstyle name="round dots 1" value="[0 1] 0"/>
+</ipestyle>
