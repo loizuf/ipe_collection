@@ -1,7 +1,0 @@
-<!---
-    TITLE: Round dot dashes
-    DESC: Provides 1 dash styles using exponential increase of the dash length (up to a capped value). Originally provided by Maarten Löffler.
--->
-<ipestyle name="exponential_dash">
-<dashstyle name="trail" value="[1.00 1.20 1.45 1.74 2.09 2.51 3.02 3.63 4.37 5.25 6.31 7.59 9.12 10.96 13.18 15.85 19.05 22.91 27.54 33.11 39.81 47.86 57.54 69.18 83.18 100.00] 0"/>
-</ipestyle>

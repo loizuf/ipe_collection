@@ -1,0 +1,17 @@
+<!-- ipecol
+    {
+        "title" : "Art Deco colors",
+        "description" : "Provides 5 colors of an Art Deco color palette.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [5],
+        "style_types" : ["color"]
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Art Deco colors">
+<color name="Forest" value="0.07 0.17 0.12"/>
+<color name="Hill" value="0.19 0.34 0.27"/>
+<color name="Salt" value="0.70 0.81 0.79"/>
+<color name="White" value="0.95 0.97 0.95"/>
+<color name="Gold" value="0.65 0.53 0.27"/>
+</ipestyle>

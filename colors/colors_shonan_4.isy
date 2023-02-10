@@ -1,0 +1,16 @@
+<!-- ipecol
+    {
+        "title" : "Shonan colors",
+        "description" : "Provides 4 colors from the logo of the Shonan Meeting.",
+        "provided_by" : ["unknown"],
+        "style_count" : [4],
+        "style_types" : ["color"]
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Shonan colors">
+<color name="C666666" value="0.4 0.4 0.4"/>
+<color name="C4353A1" value="0.262 0.325 0.631"/>
+<color name="C77CCFF" value="0.466 0.8 1"/>
+<color name="C22AAEE" value="0.133 0.666 0.933"/>
+</ipestyle>

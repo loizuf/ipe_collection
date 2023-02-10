@@ -1,0 +1,16 @@
+<!-- ipecol
+    {
+        "title" : "Poster marks",
+        "description" : "Provides 4 large marks for posters.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [4],
+        "style_types" : ["symbol(mark)"]
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Poster marks">
+<symbolsize name="smallest(poster)" value="5"/>
+<symbolsize name="small(poster)" value="8"/>
+<symbolsize name="large(poster)" value="12"/>
+<symbolsize name="largest(poster)" value="20"/>
+</ipestyle>

@@ -1,0 +1,21 @@
+<!-- ipecol
+    {
+        "title" : "Rounded square marks",
+        "description" : "Provides square marks with rounded corners (solid and filled).",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [2],
+        "style_types" : ["symbol(mark)"]
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Rounded square marks">
+<symbol name="mark/round_square(sx)" transformations="translations">
+<path fill="sym-stroke">
+-0.6 -0.3 m -0.6 0.3 l -0.6 0.3 -0.6 0.6 -0.3 0.6 c 0.3 0.6 l 0.3 0.6 0.6 0.6 0.6 0.3 c 0.6 -0.3 l 0.6 -0.3 0.6 -0.6 0.3 -0.6 c -0.3 -0.6 l -0.3 -0.6 -0.6 -0.6 -0.6 -0.3 c h</path></symbol>
+<symbol name="mark/fround_square(sfx)" transformations="translations">
+<group><path fill="sym-fill">
+-0.5 -0.3 m -0.5 0.3 l -0.5 0.3 -0.5 0.5 -0.3 0.5 c 0.3 0.5 l 0.3 0.5 0.5 0.5 0.5 0.3 c 0.5 -0.3 l 0.5 -0.3 0.5 -0.5 0.3 -0.5 c -0.3 -0.5 l -0.3 -0.5 -0.5 -0.5 -0.5 -0.3 c h</path>
+<path fill="sym-stroke" fillrule="eofill">
+-0.6 -0.3 m -0.6 0.3 l -0.6 0.3 -0.6 0.6 -0.3 0.6 c 0.3 0.6 l 0.3 0.6 0.6 0.6 0.6 0.3 c 0.6 -0.3 l 0.6 -0.3 0.6 -0.6 0.3 -0.6 c -0.3 -0.6 l -0.3 -0.6 -0.6 -0.6 -0.6 -0.3 c h
+-0.4 -0.3 m -0.4 0.3 l -0.4 0.3 -0.4 0.4 -0.3 0.4 c 0.3 0.4 l 0.3 0.4 0.4 0.4 0.4 0.3 c 0.4 -0.3 l 0.4 -0.3 0.4 -0.4 0.3 -0.4 c -0.3 -0.4 l -0.3 -0.4 -0.4 -0.4 -0.4 -0.3 c h</path></group></symbol>
+</ipestyle>

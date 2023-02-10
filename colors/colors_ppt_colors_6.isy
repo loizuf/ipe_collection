@@ -1,0 +1,18 @@
+<!-- ipecol
+    {
+        "title" : "Powerpoint colors",
+        "description" : "Provides 6 colors of Microsoft Powerpoint.",
+        "provided_by" : ["alga group TU Eindhoven", "Bettina Speckmann", "Bram Custers", "Irina Kostitsyna", "Jules Wulms", "Kevin Verbeek", "Max Sondag", "Thom Castermans", "Tim Ophelders", "Willem Sonke", "Wouter Meulemans"],
+        "style_count" : [6],
+        "style_types" : ["color"]
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Powerpoint colors">
+<color name="PPT blue" value="0.000 0.459 0.965"/>
+<color name="PPT green" value="0.000 0.690 0.314"/>
+<color name="PPT gray" value="0.647 0.647 0.647"/>
+<color name="PPT red" value="0.753 0.000 0.000"/>
+<color name="PPT purple" value="0.439 0.188 0.627"/>
+<color name="PPT yellow" value="1.000 0.753 0.000"/>
+</ipestyle>

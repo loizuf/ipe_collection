@@ -1,0 +1,16 @@
+<!-- ipecol
+    {
+        "title" : "Bettina Speckmann colors",
+        "description" : "Provides 4 primary colors, which are nicely distinguishable even on slightly sub-par beamers.",
+        "provided_by" : ["alga group TU Eindhoven", "Bettina Speckmann", "Bram Custers", "Irina Kostitsyna", "Jules Wulms", "Kevin Verbeek", "Max Sondag", "Thom Castermans", "Tim Ophelders", "Willem Sonke", "Wouter Meulemans"],
+        "style_count" : [4],
+        "style_types" : ["color"]
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Bettina colors">
+<color name="Bettina blue" value="0.000 0.400 0.796"/>
+<color name="Bettina green" value="0.282 0.557 0.000"/>
+<color name="Bettina yellow" value="1.000 0.604 0.000"/>
+<color name="Bettina red" value="0.836 0.000 0.000"/>
+</ipestyle>

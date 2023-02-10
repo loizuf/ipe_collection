@@ -1,0 +1,45 @@
+<!-- ipecol
+    {
+        "title" : "Philipp Kindermann/Jonathan Klawitter colors",
+        "description" : "Provides 33 colors.",
+        "provided_by" : ["Philipp Kindermann", "Jonathan Klawitter"],
+        "style_count" : [33],
+        "style_types" : ["color"]
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Philipp Kindermann/Jonathan Klawitter colors">
+<color name="black" value="0"/>
+<color name="dark blue" value="0.121 0.47 0.705"/>
+<color name="dark brown" value="0.651 0.337 0.157"/>
+<color name="dark cyan" value="0.106 0.62 0.467"/>
+<color name="dark gray" value="0.5"/>
+<color name="dark green" value="0.2 0.627 0.172"/>
+<color name="dark magenta" value="0.545 0 0.545"/>
+<color name="dark orange" value="1 0.498 0"/>
+<color name="dark pink" value="0.969 0.506 0.749"/>
+<color name="dark purple" value="0.415 0.239 0.603"/>
+<color name="dark red" value="0.63 0.066 0.078"/>
+<color name="dark yellow" value="1 1 0.2"/>
+<color name="gold" value="1 0.843 0"/>
+<color name="gray" value="0.745"/>
+<color name="light blue" value="0.651 0.807 0.89"/>
+<color name="light brown" value="0.898 0.847 0.741"/>
+<color name="light cyan" value="0.553 0.827 0.78"/>
+<color name="light gray" value="0.8"/>
+<color name="light green" value="0.698 0.874 0.541"/>
+<color name="light orange" value="0.992 0.749 0.435"/>
+<color name="light pink" value="0.992 0.855 0.925"/>
+<color name="light purple" value="0.792 0.698 0.839"/>
+<color name="light red" value="0.984 0.603 0.6"/>
+<color name="light yellow" value="1 1 0.8"/>
+<color name="mid red" value="0.89 0.102 0.109"/>
+<color name="navy" value="0 0 0.502"/>
+<color name="orange" value="0.992 0.682 0.38"/>
+<color name="pink" value="0.969 0.753 0.796"/>
+<color name="purple" value="0.627 0.125 0.941"/>
+<color name="seagreen" value="0.18 0.545 0.341"/>
+<color name="turquoise" value="0.251 0.878 0.816"/>
+<color name="violet" value="0.933 0.51 0.933"/>
+<color name="white" value="1"/>
+</ipestyle>

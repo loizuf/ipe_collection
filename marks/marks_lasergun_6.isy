@@ -1,0 +1,84 @@
+<!-- ipecol
+    {
+        "title" : "Lasergun marks",
+        "description" : "Provides 2 lasergun marks. Includes four color styles used by the marks.",
+        "provided_by" : ["Maarten Löffler"],
+        "style_count" : [2, 4],
+        "style_types" : ["symbol(mark)", "color"]
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Lasergun marks">
+<symbol name="mark/gun">
+<group matrix="0.5 0 0 0.5 -100 -204">
+<path stroke="gun-b1" fill="gun-b2">
+175.023 400.015 m
+8.77775 0 0 8.77775 174.641 391.245 165.874 390.817 a
+5.24172 0 0 -5.24172 163.889 395.669 159.99 392.166 a
+25.5343 0 0 25.5343 136.856 402.975 159.132 415.458 a
+18.5245 0 0 18.5245 165.035 433.016 169.422 415.019 a
+</path>
+<path matrix="0.152753 0 0 0.763763 158.227 108.605" stroke="gun-b1" fill="gun-b2">
+208.315 384.006 m
+9.59885 0 0 9.59885 203.001 392 208.315 399.994 a
+8 0 0 -8 208 392 208.315 384.006 a
+h
+</path>
+<path matrix="0.2 0 0 1 144.4 16" stroke="gun-b1" fill="gun-b2">
+208.315 384.006 m
+9.59885 0 0 9.59885 203.001 392 208.315 399.994 a
+8 0 0 -8 208 392 208.315 384.006 a
+h
+</path>
+<path matrix="0.223629 0 0 1.11815 135.422 -30.3193" stroke="gun-b1" fill="gun-b2">
+208.315 384.006 m
+9.59885 0 0 9.59885 203.001 392 208.315 399.994 a
+8 0 0 -8 208 392 208.315 384.006 a
+h
+</path>
+<path stroke="gun-a1">
+176 408 m
+200 408 l
+</path>
+<path matrix="1 0 0 0.5 48 208" stroke="gun-a1" fill="gun-a2">
+16 0 0 16 128 400 e
+</path>
+<path matrix="1 0 0 1 -6 -8" stroke="gun-a1" fill="gun-a2">
+2 0 0 2 206 416 e
+</path>
+<path matrix="0.152753 0 0 0.763763 158.227 108.605" stroke="gun-b1" fill="gun-b2">
+206.073 401.095 m
+210.56 399.579 l
+8 0 0 8 208 392 210.56 384.421 a
+206.073 382.905 l
+9.6 0 0 -9.6 203 392 206.073 401.095 a
+h
+</path>
+<path matrix="0.2 0 0 1 144.4 16" stroke="gun-b1" fill="gun-b2">
+206.073 401.095 m
+210.56 399.579 l
+8 0 0 8 208 392 210.56 384.421 a
+206.073 382.905 l
+9.6 0 0 -9.6 203 392 206.073 401.095 a
+h
+</path>
+<path matrix="0.223629 0 0 1.11815 135.422 -30.3193" stroke="gun-b1" fill="gun-b2">
+206.073 401.095 m
+210.56 399.579 l
+8 0 0 8 208 392 210.56 384.421 a
+206.073 382.905 l
+9.6 0 0 -9.6 203 392 206.073 401.095 a
+h
+</path>
+</group>
+</symbol>
+<symbol name="mark/guntip">
+<path matrix="0.5 0 0 0.5 -103 -208" stroke="gun-a1" fill="gun-a2">
+2 0 0 2 206 416 e
+</path>
+</symbol>
+<color name="gun-a1" value="0.602 0.041 0.418"/>
+<color name="gun-a2" value="0.971 0.128 0.687"/>
+<color name="gun-b1" value="0.574 0.596 0.081"/>
+<color name="gun-b2" value="0.891 0.933 0.413"/>
+</ipestyle>

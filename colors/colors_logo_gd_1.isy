@@ -1,9 +1,0 @@
-<!---
-    TITLE: GD color
-    DESC: Provides 1 colors from the logo of the Graph Drawing conference.
--->
-<?xml version="1.0"?>
-<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
-<ipestyle name="GD color">
-<color name="GD RED" value="0.67 0.07 0.19"/>
-</ipestyle>
