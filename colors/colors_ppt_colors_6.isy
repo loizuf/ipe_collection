@@ -1,7 +1,7 @@
 <!-- ipecol
     {
         "title" : "Powerpoint colors",
-        "description" : "rovides 6 colors of Microsoft Powerpoint.",
+        "description" : "Provides 6 colors of Microsoft Powerpoint.",
         "provided_by" : ["alga group TU Eindhoven", "Bettina Speckmann", "Bram Custers", "Irina Kostitsyna", "Jules Wulms", "Kevin Verbeek", "Max Sondag", "Thom Castermans", "Tim Ophelders", "Willem Sonke", "Wouter Meulemans"],
         "style_count" : [6],
         "style_types" : ["color"]
