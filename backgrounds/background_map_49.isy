@@ -4337,60 +4337,45 @@ h
 </path>
 </group>
 </symbol>
-
 <pen name="anim-big"   value="1"/>
 <pen name="anim-small" value="0.5"/>
 <pen name="edge"       value="10"/>
-
 <arrowsize name="normal" value="20"/>
 <arrowsize name="large" value="30"/>
 <arrowsize name="small" value="15"/>
 <arrowsize name="tiny" value="10"/>
-
-
 <gradient name="map" type="radial" coords="-4 10 2 0 0 1800">
   <stop offset="0" color="0.80 0.75 0.35"/>
   <stop offset="1" color="0.85 0.70 0.35"/>
 </gradient>
-
 <gradient name="metal" type="axial" extend="yes" coords="-8 0 8 0">
   <stop offset="0" color="0.7"/>
   <stop offset="1" color="0.5"/>
 </gradient>
-
 <color name="scroll_base"   value="0.85 0.80 0.55"/>
 <color name="scroll_border" value="0.65 0.55 0.35"/>
 <color name="scroll_pen"    value="0.45 0.25 0.05"/>
 <color name="scroll_pen2"   value="0.25 0.45 0.05"/>
-
 <color name="map_base"   value="0.85 0.75 0.35"/>
 <color name="map_border" value="0.45 0.45 0.05"/>
 <color name="map_pen"    value="0.45 0.25 0.05"/>
-
 <color name="anim_pen"   value="0.55 0.55 0.55"/>
 <color name="anim_grey1" value="0.75 0.75 0.75"/>
 <color name="anim_grey2" value="0.85 0.85 0.85"/>
 <color name="anim_white" value="0.95 0.95 0.95"/>
-
 <color name="mammoth_red1" value="0.75 0.15 0.15"/>
 <color name="mammoth_red2" value="0.85 0.25 0.25"/>
 <color name="mammoth_pen"  value="0.55 0.05 0.05"/>
-
 <color name="fence_iron"  value="0.55 0.55 0.60"/>
 <color name="fence_stone" value="0.65 0.70 0.65"/>
 <color name="fence_glass" value="0.15 0.25 0.95"/>
-
 <color name="blue_pen"    value="0.05 0.05 0.55"/>
 <color name="purple_pen"  value="0.55 0.05 0.55"/>
-
 <color name="poncho"      value="0.95 0.95 0.15"/>
 <color name="yellow_pen"  value="0.55 0.55 0.00"/>
 <color name="orange_pen"  value="0.65 0.45 0.05"/>
 <color name="green_pen"   value="0.05 0.75 0.05"/>
-
 <color name="green"   value="0.25 0.85 0.25"/>
-
-
 <opacity name="100%" value="1.0"/>
 <opacity name= "90%" value="0.9"/>
 <opacity name= "80%" value="0.8"/>
@@ -4402,6 +4387,5 @@ h
 <opacity name= "20%" value="0.2"/>
 <opacity name= "10%" value="0.1"/>
 <opacity name=  "0%" value="0.0"/>
-
 <layout paper="1024 768" origin="0 0" frame="1024 768" crop="no"/>
 </ipestyle>
