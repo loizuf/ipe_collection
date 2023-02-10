@@ -1,10 +1,14 @@
-<!---
-    TITLE: Devillers colors
-    DESC: Provides an extensive list of 657 colors. Originally provided by Olivier Devillers via Ipe-discuss <ipe-discuss@lists.science.uu.nl>
+<!-- ipecol
+    {
+        "title" : "Olivier Devillers colors",
+        "description" : "Provides an extensive list of 657 colors.",
+        "provided_by" : ["Olivier Devillers"],
+        "style_count" : [657],
+        "style_types" : ["color"]
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
-<ipestyle name="Devillers colors">
+<ipestyle name="Olivier Devillers colors">
 <color name="black" value="0"/>
 <color name="white" value="1"/>
 <color name="red" value="1 0 0"/>

@@ -1,6 +1,10 @@
-<!---
-    TITLE: Extended colors
-    DESC: Provides 13 colors and 11 shades of Gray. Originally created for use in cartography (e.g. Fill colors for regions in maps). Originally provided by alga group TU Eindhoven, in particular: Bettina Speckmann, Bram Custers, Irina Kostitsyna, Jules Wulms, Kevin Verbeek, Max Sondag, Thom Castermans, Tim Ophelders, Willem Sonke and Wouter Meulemans.
+<!-- ipecol
+    {
+        "title" : "Extended colors",
+        "description" : "Provides 13 colors and 11 shades of Gray. Originally created for use in cartography (e.g. Fill colors for regions in maps).",
+        "provided_by" : ["alga group TU Eindhoven", "Bettina Speckmann", "Bram Custers", "Irina Kostitsyna", "Jules Wulms", "Kevin Verbeek", "Max Sondag", "Thom Castermans", "Tim Ophelders", "Willem Sonke", "Wouter Meulemans"],
+        "style_count" : [24],
+        "style_types" : ["color"]
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">

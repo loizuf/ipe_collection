@@ -1,6 +1,10 @@
-<!---
-    TITLE: Retro colors
-    DESC: Provides a retro color palette (5 colors).
+<!-- ipecol
+    {
+        "title" : "Retro colors",
+        "description" : "Provides 5 colors of a retro color palette.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [5],
+        "style_types" : ["color"]
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">

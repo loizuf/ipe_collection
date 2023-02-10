@@ -1,10 +1,14 @@
-<!---
-    TITLE: PK colors
-    DESC: Provides 33 colors. Originally provided by Philipp Kindermann and Jonathan Klawitter.
+<!-- ipecol
+    {
+        "title" : "Philipp Kindermann/Jonathan Klawitter colors",
+        "description" : "Provides 33 colors.",
+        "provided_by" : ["Philipp Kindermann", "Jonathan Klawitter"],
+        "style_count" : [33],
+        "style_types" : ["color"]
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
-<ipestyle name="PK colors">
+<ipestyle name="Philipp Kindermann/Jonathan Klawitter colors">
 <color name="black" value="0"/>
 <color name="dark blue" value="0.121 0.47 0.705"/>
 <color name="dark brown" value="0.651 0.337 0.157"/>
@@ -38,26 +42,4 @@
 <color name="turquoise" value="0.251 0.878 0.816"/>
 <color name="violet" value="0.933 0.51 0.933"/>
 <color name="white" value="1"/>
-<preamble>
-\newcommand{\bk}{\color{black}}
-\newcommand{\bl}{\color{dark blue}}
-\newcommand{\gr}{\color{dark green}}
-\newcommand{\og}{\color{dark orange}}
-\newcommand{\pu}{\color{dark purple}}
-\newcommand{\re}{\color{mid red}}
-\newcommand{\cy}{\color{dark cyan}}
-\newcommand{\br}{\color{dark brown}}
-\newcommand{\pk}{\color{dark pink}}
-\newcommand{\gy}{\color{dark gray}}
-\newcommand{\lbl}{\color{light blue}}
-\newcommand{\lgr}{\color{light green}}
-\newcommand{\lorg}{\color{light orange}}
-\newcommand{\lpu}{\color{light purple}}
-\newcommand{\lre}{\color{light red}}
-\newcommand{\lcy}{\color{light cyan}}
-\newcommand{\lbr}{\color{light brown}}
-\newcommand{\lpk}{\color{light pink}}
-\newcommand{\lgy}{\color{light gray}}
-\newcommand{\bfl}{\bf\bl }
-</preamble>
 </ipestyle>

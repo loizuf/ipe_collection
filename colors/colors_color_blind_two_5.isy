@@ -1,6 +1,10 @@
-<!---
-    TITLE: Colorblind colors (two)
-    DESC: Provides 5 colors. Aimed to be appropriate for color-blind users.
+<!-- ipecol
+    {
+        "title" : "Colorblind colors (two)",
+        "description" : "Provides 5 colors. Aimed to be appropriate for color-blind users.",
+        "provided_by" : ["alga group TU Eindhoven", "Bettina Speckmann", "Bram Custers", "Irina Kostitsyna", "Jules Wulms", "Kevin Verbeek", "Max Sondag", "Thom Castermans", "Tim Ophelders", "Willem Sonke", "Wouter Meulemans"],
+        "style_count" : [5],
+        "style_types" : ["color"]
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">

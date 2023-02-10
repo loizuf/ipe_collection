@@ -1,6 +1,14 @@
+<!-- ipecol
+    {
+        "title" : "Shonan colors",
+        "description" : "Provides 4 colors from the logo of the Shonan Meeting.",
+        "provided_by" : ["unknown"],
+        "style_count" : [4],
+        "style_types" : ["color"]
+-->
 <!---
-    TITLE: Shonan colors
-    DESC: Provides 4 colors from the logo of the Shonan Meeting.
+    TITLE: 
+    DESC: 
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">

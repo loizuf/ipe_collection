@@ -1,6 +1,10 @@
-<!---
-    TITLE: Algorithms and Complexity colors
-    DESC: Provides 4 colors of the corporate identity colors of the Algorithms and Complexity Group at TU Wien.
+<!-- ipecol
+    {
+        "title" : "Algorithms and Complexity colors",
+        "description" : "Provides 4 colors of the corporate identity colors of the Algorithms and Complexity Group at TU Wien.",
+        "provided_by" : ["Algorithms and Complexity group - TU Wien"],
+        "style_count" : [4],
+        "style_types" : ["color"]
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
