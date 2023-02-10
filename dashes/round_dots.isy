@@ -1,4 +1,4 @@
-<!---
+<!--
     TITLE: Round dot dashes
     DESC: Provides 5 dash styles using circular dots (in contrast to the dotted style which used short dashes). This dash style requires the line cap option to be set to rounded. Originally provided by Maarten Löffler.
 -->
