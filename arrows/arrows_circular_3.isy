@@ -1,0 +1,28 @@
+<!-- ipecol
+    {
+        "title" : "Circular arrow heads",
+        "description" : "Provides 3 circular arrow head styles.",
+        "provided_by" : ["unknown"],
+        "style_count" : [3],
+        "style_types" : ["symbol(arrow)"]
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Circular arrowheads">
+<symbol name="arrow/circle(spx)" transformations="translations">
+<path pen="sym-pen" stroke="sym-stroke">
+0.5 0 0 0.5 0 0 e
+</path></symbol>
+<symbol name="arrow/disk(spx)" transformations="translations">
+<group><path pen="sym-pen" fill="sym-stroke">
+0.5 0 0 0.5 0 0 e
+</path><path pen="sym-pen" stroke="sym-stroke">
+0.5 0 0 0.5 0 0 e
+</path></group></symbol>
+<symbol name="arrow/fdisk(spx)" transformations="translations">
+<group><path pen="sym-pen" fill="white">
+0.5 0 0 0.5 0 0 e
+</path><path pen="sym-pen" stroke="sym-stroke">
+0.5 0 0 0.5 0 0 e
+</path></group></symbol>
+</ipestyle>
