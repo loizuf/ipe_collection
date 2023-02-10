@@ -8,7 +8,7 @@
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
-<ipestyle name="diamond marks">
+<ipestyle name="Diamond marks">
 <symbol name="mark/diamond(sx)" transformations="translations">
 <path fill="sym-stroke">
 -0.6 0 m 0 0.6 l 0.6 0 l 0 -0.6 l h

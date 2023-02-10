@@ -1,0 +1,30 @@
+<!-- ipecol
+    {
+        "title" : "Two-colored cross mark",
+        "description" : "Provides a two-colored cross mark.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [1],
+        "style_types" : ["symbol(mark)"]
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Two-colored cross mark">
+<symbol name="mark/f_cross(sfx)" transformations="translations">
+<group>
+<path fill="sym-stroke">
+-0.43 -0.57 m
+0.57 0.43 l
+0.43 0.57 l
+-0.57 -0.43 l
+h
+</path>
+<path fill="sym-fill">
+-0.43 0.57 m
+0.57 -0.43 l
+0.43 -0.57 l
+-0.57 0.43 l
+h
+</path>
+</group>
+</symbol>
+</ipestyle>
