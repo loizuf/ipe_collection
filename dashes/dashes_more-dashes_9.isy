@@ -1,6 +1,10 @@
-<!---
-    TITLE: More dashes
-    DESC: Provides several new dash styles
+<!-- ipecol
+    {
+        "title" : "More dashes",
+        "description" : "Provides 9 dash styles of dashed, dotted and mixed lines in different densities.",
+        "provided_by" : ["unknown"],
+        "style_count" : [9],
+        "style_types" : ["dashstyle"]
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">

@@ -1,6 +1,10 @@
-<!---
-    TITLE: Extended dashes
-    DESC: Provides several new dash styles (originally extracted from the extended_colors style file)
+<!-- ipecol
+    {
+        "title" : "Extended dashes",
+        "description" : "Provides 8 dash styles of dashed and dotted lines scaled to the four standard line thicknesses. The dotted styles require the line cap option to be set to rounded.",
+        "provided_by" : ["unknown"],
+        "style_count" : [8],
+        "style_types" : ["dashstyle"]
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
