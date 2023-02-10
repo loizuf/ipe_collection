@@ -1,0 +1,193 @@
+<!-- ipecol
+    {
+        "title" : "Mossels marks",
+        "description" : "Provides box shaped marks with a number inside and a tiled backdrop. Includes nine color styles used by the marks.",
+        "provided_by" : ["Maarten Löffler"],
+        "style_count" : [9, 9],
+        "style_types" : ["symbol(mark)", "color"]
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Mossels marks">
+<symbol name="mark/mossel-1(x)">
+<group>
+<path matrix="0.316667 0 0 0.316667 -41.8 -143.133" fill="message1" opacity="50%" tiling="pusher">
+128 456 m
+128 448 l
+136 448 l
+136 456 l
+h
+</path>
+<text matrix="0.316667 0 0 0.316667 -41.8 -143.485" pos="128 456" stroke="message1" type="minipage" width="8" height="5.388" depth="0.39" valign="top" size="small" style="center">1</text>
+<path matrix="0.316667 0 0 0.316667 -41.8 -143.133" stroke="message1" cap="1" join="1">
+128 456 m
+128 448 l
+136 448 l
+136 456 l
+h
+</path>
+</group>
+</symbol>
+<symbol name="mark/mossel-2(x)">
+<group>
+<path matrix="0.316667 0 0 0.316667 -41.8 -143.133" fill="message2" opacity="50%" tiling="pusher">
+128 456 m
+128 448 l
+136 448 l
+136 456 l
+h
+</path>
+<text matrix="0.316667 0 0 0.316667 -41.8 -143.485" pos="128 456" stroke="message2" type="minipage" width="8" height="5.388" depth="0.39" valign="top" size="small" style="center">2</text>
+<path matrix="0.316667 0 0 0.316667 -41.8 -143.133" stroke="message2" cap="1" join="1">
+128 456 m
+128 448 l
+136 448 l
+136 456 l
+h
+</path>
+</group>
+</symbol>
+<symbol name="mark/mossel-3(x)">
+<group>
+<path matrix="0.316667 0 0 0.316667 -41.8 -143.133" fill="message3" opacity="50%" tiling="pusher">
+128 456 m
+128 448 l
+136 448 l
+136 456 l
+h
+</path>
+<text matrix="0.316667 0 0 0.316667 -41.8 -143.485" pos="128 456" stroke="message3" type="minipage" width="8" height="5.388" depth="0.39" valign="top" size="small" style="center">3</text>
+<path matrix="0.316667 0 0 0.316667 -41.8 -143.133" stroke="message3" cap="1" join="1">
+128 456 m
+128 448 l
+136 448 l
+136 456 l
+h
+</path>
+</group>
+</symbol>
+<symbol name="mark/mossel-4(x)">
+<group>
+<path matrix="0.316667 0 0 0.316667 -41.8 -143.133" fill="message4" opacity="50%" tiling="pusher">
+128 456 m
+128 448 l
+136 448 l
+136 456 l
+h
+</path>
+<text matrix="0.316667 0 0 0.316667 -41.8 -143.485" pos="128 456" stroke="message4" type="minipage" width="8" height="5.388" depth="0.39" valign="top" size="small" style="center">4</text>
+<path matrix="0.316667 0 0 0.316667 -41.8 -143.133" stroke="message4" cap="1" join="1">
+128 456 m
+128 448 l
+136 448 l
+136 456 l
+h
+</path>
+</group>
+</symbol>
+<symbol name="mark/mossel-5(x)">
+<group>
+<path matrix="0.316667 0 0 0.316667 -41.8 -143.133" fill="message5" opacity="50%" tiling="pusher">
+128 456 m
+128 448 l
+136 448 l
+136 456 l
+h
+</path>
+<text matrix="0.316667 0 0 0.316667 -41.8 -143.485" pos="128 456" stroke="message5" type="minipage" width="8" height="5.388" depth="0.39" valign="top" size="small" style="center">5</text>
+<path matrix="0.316667 0 0 0.316667 -41.8 -143.133" stroke="message5" cap="1" join="1">
+128 456 m
+128 448 l
+136 448 l
+136 456 l
+h
+</path>
+</group>
+</symbol>
+<symbol name="mark/mossel-6(x)">
+<group>
+<path matrix="0.316667 0 0 0.316667 -41.8 -143.133" fill="message6" opacity="50%" tiling="pusher">
+128 456 m
+128 448 l
+136 448 l
+136 456 l
+h
+</path>
+<text matrix="0.316667 0 0 0.316667 -41.8 -143.485" pos="128 456" stroke="message6" type="minipage" width="8" height="5.388" depth="0.39" valign="top" size="small" style="center">6</text>
+<path matrix="0.316667 0 0 0.316667 -41.8 -143.133" stroke="message6" cap="1" join="1">
+128 456 m
+128 448 l
+136 448 l
+136 456 l
+h
+</path>
+</group>
+</symbol>
+<symbol name="mark/mossel-7(x)">
+<group>
+<path matrix="0.316667 0 0 0.316667 -41.8 -143.133" fill="message7" opacity="50%" tiling="pusher">
+128 456 m
+128 448 l
+136 448 l
+136 456 l
+h
+</path>
+<text matrix="0.316667 0 0 0.316667 -41.8 -143.485" pos="128 456" stroke="message7" type="minipage" width="8" height="5.388" depth="0.39" valign="top" size="small" style="center">7</text>
+<path matrix="0.316667 0 0 0.316667 -41.8 -143.133" stroke="message7" cap="1" join="1">
+128 456 m
+128 448 l
+136 448 l
+136 456 l
+h
+</path>
+</group>
+</symbol>
+<symbol name="mark/mossel-8(x)">
+<group>
+<path matrix="0.316667 0 0 0.316667 -41.8 -143.133" fill="message8" opacity="50%" tiling="pusher">
+128 456 m
+128 448 l
+136 448 l
+136 456 l
+h
+</path>
+<text matrix="0.316667 0 0 0.316667 -41.8 -143.485" pos="128 456" stroke="message8" type="minipage" width="8" height="5.388" depth="0.39" valign="top" size="small" style="center">8</text>
+<path matrix="0.316667 0 0 0.316667 -41.8 -143.133" stroke="message8" cap="1" join="1">
+128 456 m
+128 448 l
+136 448 l
+136 456 l
+h
+</path>
+</group>
+</symbol>
+<symbol name="mark/mossel-9(x)">
+<group>
+<path matrix="0.316667 0 0 0.316667 -41.8 -143.133" fill="message9" opacity="50%" tiling="pusher">
+128 456 m
+128 448 l
+136 448 l
+136 456 l
+h
+</path>
+<text matrix="0.316667 0 0 0.316667 -41.8 -143.485" pos="128 456" stroke="message9" type="minipage" width="8" height="5.388" depth="0.39" valign="top" size="small" style="center">9</text>
+<path matrix="0.316667 0 0 0.316667 -41.8 -143.133" stroke="message9" cap="1" join="1">
+128 456 m
+128 448 l
+136 448 l
+136 456 l
+h
+</path>
+</group>
+</symbol>
+<color name="message1" value="0.60 0.20 0.20"/>
+<color name="message2" value="0.60 0.40 0.20"/>
+<color name="message3" value="0.60 0.60 0.20"/>
+<color name="message4" value="0.40 0.60 0.20"/>
+<color name="message5" value="0.20 0.60 0.20"/>
+<color name="message6" value="0.20 0.60 0.40"/>
+<color name="message7" value="0.20 0.60 0.60"/>
+<color name="message8" value="0.20 0.40 0.60"/>
+<color name="message9" value="0.20 0.20 0.60"/>
+<tiling name="pusher" angle="40" step="1.5" width="0.5"/>
+</ipestyle>
