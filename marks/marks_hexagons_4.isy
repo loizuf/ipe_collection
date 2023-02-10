@@ -1,6 +1,10 @@
-<!--
-    TITLE: Hexagon marks
-    DESC: Provides hexagonal marks in two versions vertical and horizontal.
+<!-- ipecol
+    {
+        "title" : "Hexagon marks",
+        "description" : "Provides vertically and horizontally aligned hexagonal marks (solid and filled).",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [4],
+        "style_types" : ["symbol(mark)"]
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">

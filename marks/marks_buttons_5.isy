@@ -1,19 +1,14 @@
-<ipestyle name="buttons">
-<gradient name="redwhitediag" type="axial" coords="0 0 60 60" extend="yes">
- <stop offset="0" color="1 0 0"/>
- <stop offset="1" color="1"/>
-</gradient>
-<gradient name="greenwhitediag" type="axial" coords="0 0 60 60" extend="yes">
- <stop offset="0" color="0 0.8 0.2"/>
- <stop offset="1" color="1"/>
-</gradient>
-<gradient name="thread" type="axial" coords="0 10 10 0" extend="yes">
- <stop offset="0" color="0"/>
- <stop offset="0.2" color="0"/>
- <stop offset="0.5" color="0.75 0.562 0.371"/>
- <stop offset="0.8" color="0"/>
- <stop offset="1" color="0"/>
-</gradient>
+<!-- ipecol
+    {
+        "title" : "Button marks",
+        "description" : "Provides red and green button marks. Includes three gradient styles used by the marks.",
+        "provided_by" : ["Maarten Löffler"],
+        "style_count" : [2, 3],
+        "style_types" : ["symbol(mark)", "gradient"]
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Button marks">
 <symbol name="mark/red button(x)">
 <group layer="alpha" matrix="0.1 0 0 0.1 -1.6 -1.6">
 <path matrix="1.4 0 0 1.4 16 16" stroke="black" fill="white" pen="0.5" gradient="redwhitediag">
@@ -106,4 +101,20 @@ h
 </path>
 </group>
 </symbol>
+<gradient name="redwhitediag" type="axial" coords="0 0 60 60" extend="yes">
+ <stop offset="0" color="1 0 0"/>
+ <stop offset="1" color="1"/>
+</gradient>
+<gradient name="greenwhitediag" type="axial" coords="0 0 60 60" extend="yes">
+ <stop offset="0" color="0 0.8 0.2"/>
+ <stop offset="1" color="1"/>
+</gradient>
+<gradient name="thread" type="axial" coords="0 10 10 0" extend="yes">
+ <stop offset="0" color="0"/>
+ <stop offset="0.2" color="0"/>
+ <stop offset="0.5" color="0.75 0.562 0.371"/>
+ <stop offset="0.8" color="0"/>
+ <stop offset="1" color="0"/>
+</gradient>
 </ipestyle>
+

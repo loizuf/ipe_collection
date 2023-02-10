@@ -1,6 +1,10 @@
-<!--
-    TITLE: Diamond marks
-    DESC: Provides diamond marks.
+<!-- ipecol
+    {
+        "title" : "Diamond marks",
+        "description" : "Provides diamond marks (solid and filled).",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [2],
+        "style_types" : ["symbol(mark)"]
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
