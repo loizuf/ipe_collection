@@ -1,6 +1,10 @@
-<!---
-    TITLE: Green background
-    DESC: This style adds a 1000pt by 1000pt object to the ipe file. It can be used as a template to create backgrounds of any size and color.
+<!-- ipecol
+    {
+        "title" : "Background green",
+        "description" : "This style adds a 1000pt by 1000pt object to the ipe file. It can be used as a template to create backgrounds of any size and color.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [1],
+        "style_types" : ["symbol(background)"]
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">

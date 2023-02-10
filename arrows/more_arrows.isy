@@ -1,6 +1,10 @@
-<!---
-    TITLE: More arrows
-    DESC: Provides 9 additional arrow head styles.
+<!-- ipecol
+    {
+        "title" : "More arrows",
+        "description" : "provides 9 additional arrow head styles.",
+        "provided_by" : ["unknown"],
+        "style_count" : [9],
+        "style_types" : ["symbol(arrow)"]
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">

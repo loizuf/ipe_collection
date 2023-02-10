@@ -1,6 +1,10 @@
-<!---
-    TITLE: More angles
-    DESC: Provides 6 additional angles for the angular snap. Originally provided by Fabian Klute.
+<!-- ipecol
+    {
+        "title" : "More angles",
+        "description" : "Provides 6 additional angles for the angular snap.",
+        "provided_by" : ["Fabian Klute"],
+        "style_count" : [6],
+        "style_types" : ["anglesize"]
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">

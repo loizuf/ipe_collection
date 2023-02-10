@@ -1,6 +1,14 @@
 <!---
-    TITLE: Background pool tiling
-    DESC: Provides the image of a pool floor tiles as a background. Originally provided by Maarten Löffler.
+    TITLE: 
+    DESC:  Originally provided by Maarten Löffler.
+-->
+<!-- ipecol
+    {
+        "title" : "Background pool tiling",
+        "description" : "Provides the image of a pool floor tiles as a background. Includes 5 colors used by the background.",
+        "provided_by" : ["Maarten Löffler"],
+        "style_count" : [1, 5],
+        "style_types" : ["symbol(background), "color"]
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
