@@ -1,15 +1,25 @@
 <!-- ipecol
     {
         "title" : "Orc arrow heads",
-        "description" : "Provides 1 arrow head styles called orc.",
+        "description" : "Provides 2 arrow head styles called orc (one normal one middle).",
         "provided_by" : ["Maarten Löffler"],
-        "style_count" : [1],
+        "style_count" : [2],
         "style_types" : ["symbol(arrow)"]
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
 <ipestyle name="Orc arrow heads">
 <symbol name="arrow/orc(spx)">
+<path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
+0 0 m
+-1 0.333 l
+1 0 l
+-1 -0.333 l
+h
+</path>
+</symbol>
+<ipestyle name="Orc arrow heads">
+<symbol name="arrow/mid-orc(spx)">
 <path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
 0 0 m
 -1 0.333 l
