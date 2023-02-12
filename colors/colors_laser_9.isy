@@ -1,0 +1,21 @@
+<!-- ipecol
+    {
+        "title" : "Laser colors",
+        "description" : "Provides 9 colors of brick, mortar, steel, lasers and ghosts.",
+        "provided_by" : ["Maarten Löffler"],
+        "style_count" : [9],
+        "style_types" : ["color"]
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Laser colors">
+<color name="brick1" value="0.647 0.265 0.165"/>
+<color name="brick2" value="0.722 0.301 0.217"/>
+<color name="steel1" value="0.663 0.663 0.734"/>
+<color name="steel2" value="0.735 0.735 0.788"/>
+<color name="ghost1" value="0.311 0.317 0.677"/>
+<color name="ghost2" value="0.622 0.635 0.999"/>
+<color name="mortar" value="0.345 0.344 0.344"/>
+<color name="laser1" value="0.957 0.004 0.201"/>
+<color name="laser2" value="0.993 0.566 0.798"/>
+</ipestyle>
