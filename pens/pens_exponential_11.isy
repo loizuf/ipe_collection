@@ -1,8 +1,12 @@
-<!--
-    TITLE: Exponential pens
-    DESC: Provides 11 pen-sizes, whose differences in pen width increase exponentially. Originally provided by Maarten Löffler.
+<!-- ipecol
+    {
+        "title" : "Exponential pen sizes",
+        "description" : "Provides 11 pen-sizes, whose differences in pen width increase exponentially.",
+        "provided_by" : ["Maarten Löffler"],
+        "style_count" : [11],
+        "style_types" : ["pen"]
 -->
-<ipestyle name="Exponential pens">
+<ipestyle name="Exponential pen sizes">
 <pen name="level -5" value="0.237"/>
 <pen name="level -4" value="0.316"/>
 <pen name="level -3" value="0.422"/>

@@ -1,0 +1,15 @@
+<!-- ipecol
+    {
+        "title" : "Thinner pen sizes",
+        "description" : "Provides 3 thinner pen sizes below normal.",
+        "provided_by" : ["Philipp Kindermann", "Soeren Terziadis"],
+        "style_count" : [3],
+        "style_types" : ["pen"]
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Thinner pen sizes">
+<pen name="ultrathin" value="0.6"/>
+<pen name="thinner" value="0.8"/>
+<pen name="thin" value="1"/>
+</ipestyle>
