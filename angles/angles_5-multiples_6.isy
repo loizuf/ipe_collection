@@ -1,14 +1,14 @@
 <!-- ipecol
     {
-        "title" : "More angles",
-        "description" : "Provides 6 additional angles for the angular snap.",
+        "title" : "Multiple of 5 angles",
+        "description" : "Provides 6 additional angles which are multiples of 5.",
         "provided_by" : ["Fabian Klute"],
         "style_count" : [6],
         "style_types" : ["anglesize"]
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
-<ipestyle name="More angles">
+<ipestyle name="Multiple of 5 angles">
 <anglesize name="11.25 deg" value="11.25"/>
 <anglesize name="5 deg" value="5"/>
 <anglesize name="10 deg" value="10"/>
