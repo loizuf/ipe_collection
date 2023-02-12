@@ -9,7 +9,7 @@
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
-<ipestyle name="arial">
+<ipestyle name="Arial font">
 	<preamble>
 		\usepackage{fontspec}
 		\setmainfont{Arial}

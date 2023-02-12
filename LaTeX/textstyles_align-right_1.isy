@@ -9,6 +9,6 @@
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
-<ipestyle name="text_styles">
+<ipestyle name="Right text alignment">
 <textstyle name="right" begin="\begin{flushright}" end="\end{flushright}"/>
 </ipestyle>
