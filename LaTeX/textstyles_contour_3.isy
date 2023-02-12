@@ -1,0 +1,18 @@
+<!-- ipecol
+    {
+        "title" : "Text contour",
+        "description" : "Provides 2 text styles giving minipage text a white or black contour.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [1, 2],
+        "style_types" : ["preamble", "textstyle"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Text contour">
+<preamble>
+    \usepackage{contour}
+</preamble>
+<textstyle name="contour (black)" begin="\contour{black}{" end="}"/>
+<textstyle name="contour (white)" begin="\contour{white}{" end="}"/>
+</ipestyle>

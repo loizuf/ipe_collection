@@ -1,0 +1,16 @@
+<!-- ipecol
+    {
+        "title" : "Poster fontsizes",
+        "description" : "Provides 3 fontsizes suitable for an A0 poster.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [3],
+        "style_types" : ["textsize"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Poster fontsizes">
+<textsize name="poster-54" value="54"/>
+<textsize name="poster-36" value="36"/>
+<textsize name="poster-28" value="28"/>
+</ipestyle>

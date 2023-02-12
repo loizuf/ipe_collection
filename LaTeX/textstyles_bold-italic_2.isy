@@ -1,0 +1,15 @@
+<!-- ipecol
+    {
+        "title" : "Bold and italic text",
+        "description" : "Provides 2 text styles allowing minipage text to be bold or italic.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [2],
+        "style_types" : ["textstyle"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Bold and italic text">
+<textstyle name="bold" begin="\textbf{" end="}"/>
+<textstyle name="italic" begin="\textit{" end="}"/>
+</ipestyle>

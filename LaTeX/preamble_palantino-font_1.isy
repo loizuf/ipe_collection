@@ -1,0 +1,17 @@
+<!-- ipecol
+    {
+        "title" : "Palantino math font",
+        "description" : "Sets the math font to Palantino.",
+        "provided_by" : ["Stefan Huber"],
+        "style_count" : [1],
+        "style_types" : ["preamble"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Palantino math font">
+	<preamble>
+		\usepackage{mathpazo}
+		\linespread{1.05}
+	</preamble>
+</ipestyle>

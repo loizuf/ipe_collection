@@ -1,0 +1,18 @@
+<!-- ipecol
+    {
+        "title" : "CMBright font",
+        "description" : "Sets the main font to Computer Modern Bright.",
+        "provided_by" : ["Stefan Huber"],
+        "style_count" : [1],
+        "style_types" : ["preamble"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="CMBright font">
+	<preamble>
+		\usepackage[T1]{fontenc}
+		\usepackage{cmbright}
+	</preamble>
+</ipestyle>
+

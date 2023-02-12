@@ -1,0 +1,17 @@
+<!-- ipecol
+    {
+        "title" : "Gyre Pagella font",
+        "description" : "Sets the main font to Gyre Pagella.",
+        "provided_by" : ["Stefan Huber"],
+        "style_count" : [1],
+        "style_types" : ["preamble"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Gyre Pagella font">
+        <preamble>
+                \usepackage{tgpagella}
+        </preamble>
+</ipestyle>
+

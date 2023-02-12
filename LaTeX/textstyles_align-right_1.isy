@@ -1,0 +1,14 @@
+<!-- ipecol
+    {
+        "title" : "Right text alignment",
+        "description" : "Provides 1 text style allowing minipage text to align right.",
+        "provided_by" : ["Philipp Kindermann"],
+        "style_count" : [1],
+        "style_types" : ["textstyle"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="text_styles">
+<textstyle name="right" begin="\begin{flushright}" end="\end{flushright}"/>
+</ipestyle>
