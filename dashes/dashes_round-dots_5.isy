@@ -5,6 +5,7 @@
         "provided_by" : ["Maarten Löffler"],
         "style_count" : [5],
         "style_types" : ["dashstyle"]
+    }
 -->
 <ipestyle name="Round dot dashes">
 <!-- to be used with round line caps -->

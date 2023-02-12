@@ -5,6 +5,7 @@
         "provided_by" : ["Maarten Löffler"],
         "style_count" : [11],
         "style_types" : ["pen"]
+    }
 -->
 <ipestyle name="Exponential pen sizes">
 <pen name="level -5" value="0.237"/>

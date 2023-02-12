@@ -5,6 +5,7 @@
         "provided_by" : ["Maarten Löffler"],
         "style_count" : [2, 4],
         "style_types" : ["symbol(mark)", "color"]
+    }
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">

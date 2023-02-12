@@ -5,6 +5,7 @@
         "provided_by" : ["Maarten Löffler"],
         "style_count" : [2],
         "style_types" : ["symbol(arrow)"]
+    }
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">

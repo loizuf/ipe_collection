@@ -5,6 +5,7 @@
         "provided_by" : ["Fabian Klute"],
         "style_count" : [6],
         "style_types" : ["anglesize"]
+    }
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">

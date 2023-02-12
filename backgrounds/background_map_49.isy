@@ -5,6 +5,7 @@
         "provided_by" : ["Maarten Löffler"],
         "style_count" : [1, 3, 3, 4, 2, 24, 11, 1],
         "style_types" : ["symbol(background)", "symbol(mark)", "pen", "arrowsize", "gradient", "color", "opacity", "layout"]
+    }
 -->
 <ipestyle name="Background map">
 

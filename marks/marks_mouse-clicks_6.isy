@@ -5,6 +5,7 @@
         "provided_by" : ["Soeren Terziadis"],
         "style_count" : [6],
         "style_types" : ["symbol(mark)"]
+    }
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
