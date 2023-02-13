@@ -1,0 +1,13 @@
+<!-- ipecol
+    {
+        "title" : "A1 layout (landscape)",
+        "description" : "Sets canvas size to DIN A1 format (landscape).",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [1],
+        "style_types" : ["layout"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="A1 layout (landscape)">
+<layout paper="2384 1684" origin="0 0" frame="2384 1684"/></ipestyle>

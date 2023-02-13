@@ -1,0 +1,13 @@
+<!-- ipecol
+    {
+        "title" : "A6 layout",
+        "description" : "Sets canvas size to DIN A6 format (landscape).",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [1],
+        "style_types" : ["layout"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="A6 layout">
+<layout paper="419 289" origin="0 0" frame="419 289"/></ipestyle>

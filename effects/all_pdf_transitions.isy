@@ -1,6 +1,11 @@
-<!---
-    TITLE: All PDF Transitions
-    DESC: Provides all 28 PDF supported slide transitions.
+<!-- ipecol
+    {
+        "title" : "All PDF Transitions",
+        "description" : "Provides all 28 PDF supported slide transitions..",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [28],
+        "style_types" : ["effect"]
+    }
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">

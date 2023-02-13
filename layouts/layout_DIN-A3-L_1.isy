@@ -1,0 +1,13 @@
+<!-- ipecol
+    {
+        "title" : "A3 layout",
+        "description" : "Sets canvas size to DIN A3 format.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [1],
+        "style_types" : ["layout"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="A3 layout (landscape)">
+<layout paper="1191 842" origin="0 0" frame="1191 842"/></ipestyle>

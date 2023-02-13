@@ -1,0 +1,14 @@
+<!-- ipecol
+    {
+        "title" : "LNCS margins",
+        "description" : "Sets canvas size to DIN A4 format and restricts frame to the margins of the LNCS template.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [1],
+        "style_types" : ["layout"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="LNCS margins">
+<layout paper="595 842" origin="124 148" frame="346 547"/>
+</ipestyle>

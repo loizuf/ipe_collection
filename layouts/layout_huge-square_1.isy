@@ -1,0 +1,14 @@
+<!-- ipecol
+    {
+        "title" : "Huge square canvas",
+        "description" : "Sets canvas size to a large square (useful for large construction, mindmaps, sketches, ...).",
+        "provided_by" : ["Fabian Klute"],
+        "style_count" : [1],
+        "style_types" : ["layout"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Huge square canvas">
+<layout paper="5000 5000" origin="0 0" frame="5000 5000"/>
+</ipestyle>

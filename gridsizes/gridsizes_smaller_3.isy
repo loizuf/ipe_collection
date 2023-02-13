@@ -1,0 +1,16 @@
+<!-- ipecol
+    {
+        "title" : "Smaller grid sizes",
+        "description" : "Provides 3 smaller grid sizes (1, 2 and 3).",
+        "provided_by" : ["Fabian Klute"],
+        "style_count" : [3],
+        "style_types" : ["gridsize"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Smaller grid sizes">
+<gridsize name="1 pts" value="1"/>
+<gridsize name="2 pts" value="2"/>
+<gridsize name="3 pts" value="3"/>
+</ipestyle>

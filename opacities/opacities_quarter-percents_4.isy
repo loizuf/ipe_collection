@@ -1,0 +1,17 @@
+<!-- ipecol
+    {
+        "title" : "Quarter opacities",
+        "description" : "Provides 4 opacities in 25 percent increments.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [10],
+        "style_types" : ["opacity"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Quarter opacities">
+<opacity name="25%" value="0.25"/>
+<opacity name="50%" value="0.5"/>
+<opacity name="75%" value="0.75"/>
+<opacity name="opaque" value="1"/>
+</ipestyle>

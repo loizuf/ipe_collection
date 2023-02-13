@@ -1,0 +1,13 @@
+<!-- ipecol
+    {
+        "title" : "JOCG margins",
+        "description" : "Sets canvas size to DIN A4 format and restricts frame to the margins of the JOCG template.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [1],
+        "style_types" : ["layout"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="JOCG margins">
+<layout paper="595 842" origin="91 111" frame="413 620"/></ipestyle>

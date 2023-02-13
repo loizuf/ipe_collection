@@ -1,0 +1,17 @@
+<!-- ipecol
+    {
+        "title" : "Smaller grid sizes",
+        "description" : "Provides 4 larger grid sizes (30, 40, 50 and 60).",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [4],
+        "style_types" : ["gridsize"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Larger grid sizes">
+<gridsize name="30 pts" value="30"/>
+<gridsize name="40 pts" value="40"/>
+<gridsize name="50 pts" value="50"/>
+<gridsize name="60 pts" value="60"/>
+</ipestyle>
