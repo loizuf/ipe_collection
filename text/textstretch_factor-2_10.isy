@@ -1,6 +1,6 @@
 <!-- ipecol
     {
-        "title" : "Poster fontsizes",
+        "title" : "Larger textsize (x2)",
         "description" : "Rescales all standard fontsizes by a factor of 2.",
         "provided_by" : ["Soeren Terziadis"],
         "style_count" : [10],
@@ -9,7 +9,7 @@
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
-<ipestyle name="Poster fontsizes">
+<ipestyle name="Larger textsize (x2)">
 <textstretch name="normal" value="2"/>
 <textstretch name="large" value="2"/>
 <textstretch name="Large" value="2"/>

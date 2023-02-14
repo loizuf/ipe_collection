@@ -14,8 +14,8 @@
 	\usepackage[shortlabels]{enumitem}
 	\usepackage{tikz}
 	\usetikzlibrary{shapes.misc}
-	\setlist[itemize,1]{label={\tikz{\fill[rounded corners=0.6pt, fill=black] (0, 0) rectangle (0.2, 0.2) {};}}}
-	\setlist[itemize,2]{label={\tikz{\fill[rounded corners=0.6pt, fill=black] (0, 0) rectangle (0.18, 0.18) {};}}}	
-	\setlist[itemize,3]{label={\tikz{\fill[rounded corners=0.6pt, fill=black] (0, 0) rectangle (0.15, 0.15) {};}}}
+	\setlist[itemize,1]{label={\tikz{\fill[rounded corners=0.6pt] (0, 0) rectangle (0.2, 0.2) {};}}}
+	\setlist[itemize,2]{label={\tikz{\fill[rounded corners=0.6pt] (0, 0) rectangle (0.18, 0.18) {};}}}	
+	\setlist[itemize,3]{label={\tikz{\fill[rounded corners=0.6pt] (0, 0) rectangle (0.15, 0.15) {};}}}
 </preamble>
 </ipestyle>
