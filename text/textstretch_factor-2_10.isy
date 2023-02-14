@@ -1,0 +1,23 @@
+<!-- ipecol
+    {
+        "title" : "Poster fontsizes",
+        "description" : "Rescales all standard fontsizes by a factor of 2.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [10],
+        "style_types" : ["textstretch"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Poster fontsizes">
+<textstretch name="normal" value="2"/>
+<textstretch name="large" value="2"/>
+<textstretch name="Large" value="2"/>
+<textstretch name="LARGE" value="2"/>
+<textstretch name="huge" value="2"/>
+<textstretch name="Huge" value="2"/>
+<textstretch name="small" value="2"/>
+<textstretch name="footnote" value="2"/>
+<textstretch name="script" value="2"/>
+<textstretch name="tiny" value="2"/>
+</ipestyle>
