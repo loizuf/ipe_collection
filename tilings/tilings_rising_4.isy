@@ -1,0 +1,17 @@
+<!-- ipecol
+    {
+        "title" : "Rising tiling (normal)",
+        "description" : "Provides 4 rising tiling patterns.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [4],
+        "style_types" : ["tiling"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Rising tiling (normal)">
+<tiling name="rising30(normal)" angle="30" step="5" width="2"/>
+<tiling name="rising40(normal)" angle="40" step="5" width="2"/>
+<tiling name="rising50(normal)" angle="50" step="5" width="2"/>
+<tiling name="rising60(normal)" angle="60" step="5" width="2"/>
+</ipestyle>

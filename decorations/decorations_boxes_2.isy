@@ -1,0 +1,31 @@
+<!-- ipecol
+    {
+        "title" : "Simple box decorations",
+        "description" : "Provides 2 box shaped decorations.",
+        "provided_by" : ["unknown"],
+        "style_count" : [2],
+        "style_types" : ["symbol(decoration)"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Simple box decorations">
+<symbol name="decoration/simple-box-small">
+<path stroke="black" fill="lightgray">
+96 96 m
+304 96 l
+304 204 l
+96 204 l
+h
+</path>
+</symbol>
+<symbol name="decoration/simple-box-large">
+<path stroke="black" fill="lightgray">
+92 208 m
+92 92 l
+308 92 l
+308 208 l
+h
+</path>
+</symbol>
+</ipestyle>

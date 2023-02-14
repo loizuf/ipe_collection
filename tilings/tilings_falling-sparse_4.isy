@@ -1,0 +1,17 @@
+<!-- ipecol
+    {
+        "title" : "Falling tiling (sparse)",
+        "description" : "Provides 4 sparse falling tiling patterns.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [4],
+        "style_types" : ["tiling"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Falling tiling (sparse)">
+<tiling name="falling30(sparse)" angle="-30" step="4" width="1"/>
+<tiling name="falling40(sparse)" angle="-40" step="4" width="1"/>
+<tiling name="falling50(sparse)" angle="-50" step="4" width="1"/>
+<tiling name="falling60(sparse)" angle="-60" step="4" width="1"/>
+</ipestyle>

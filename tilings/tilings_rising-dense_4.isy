@@ -1,0 +1,17 @@
+<!-- ipecol
+    {
+        "title" : "Rising tiling (dense)",
+        "description" : "Provides 4 dense rising tiling patterns.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [4],
+        "style_types" : ["tiling"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Rising tiling (dense)">
+<tiling name="rising30(dense)" angle="30" step="6" width="3"/>
+<tiling name="rising40(dense)" angle="40" step="6" width="3"/>
+<tiling name="rising50(dense)" angle="50" step="6" width="3"/>
+<tiling name="rising60(dense)" angle="60" step="6" width="3"/>
+</ipestyle>

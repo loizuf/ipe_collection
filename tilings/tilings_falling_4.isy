@@ -1,0 +1,17 @@
+<!-- ipecol
+    {
+        "title" : "Falling tiling (normal)",
+        "description" : "Provides 4 falling tiling patterns.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [4],
+        "style_types" : ["tiling"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Falling tiling (normal)">
+<tiling name="falling30(normal)" angle="-30" step="5" width="2"/>
+<tiling name="falling40(normal)" angle="-40" step="5" width="2"/>
+<tiling name="falling50(normal)" angle="-50" step="5" width="2"/>
+<tiling name="falling60(normal)" angle="-60" step="5" width="2"/>
+</ipestyle>

@@ -1,0 +1,107 @@
+<!-- ipecol
+    {
+        "title" : "Comic box decorations",
+        "description" : "Provides 2 box shaped decorations with rounded corners.",
+        "provided_by" : ["Fabian Klute"],
+        "style_count" : [2],
+        "style_types" : ["symbol(decoration)"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Comic box decorations">
+<symbol name="decoration/comic_bottom_right">
+<path stroke="black" fill="white">
+290 96 m
+294 96
+304 96
+304 106
+304 194
+304 204
+294 204
+106 204
+96 204
+96 194
+96 106
+96 96
+106 96
+282 96 s
+284 92
+294 88 s
+290 92
+290 96 s
+h
+</path>
+</symbol>
+<symbol name="decoration/comic_top_left">
+<path stroke="black" fill="white">
+110 96 m
+106 96
+96 96
+96 106
+96 194
+96 204
+106 204
+110 204 s
+110 208
+106 212 s
+116 208
+118 204 s
+294 204
+304 204
+304 194
+304 106
+304 96
+294 96
+110 96 s
+h
+</path>
+</symbol>
+<symbol name="decoration/comic_top_right">
+<path stroke="black" fill="white">
+290 96 m
+294 96
+304 96
+304 106
+304 194
+304 204
+294 204
+290 204 s
+290 208
+294 212 s
+284 208
+282 204 s
+106 204
+96 204
+96 194
+96 106
+96 96
+106 96
+290 96 s
+h
+</path>
+</symbol>
+<symbol name="decoration/comic_bottom_left">
+<path stroke="black" fill="white">
+110 96 m
+106 96
+96 96
+96 106
+96 194
+96 204
+106 204
+294 204
+304 204
+304 194
+304 106
+304 96
+294 96
+118 96 s
+116 92
+106 88 s
+110 92
+110 96 s
+h
+</path>
+</symbol>   
+</ipestyle>
