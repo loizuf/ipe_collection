@@ -1,7 +1,0 @@
-<!--
-    TITLE: Bullet item
-    DESC: Provides round bulletpoint item style for minipage texts. Originally provided by Maarten Löffler.
--->
-<ipestyle name="Bullet item">
-<textstyle name="bullet item" begin="\vspace {-4 pt} \raggedright {\list {$\bullet$} {} \item {}" end="}"/>
-</ipestyle>
