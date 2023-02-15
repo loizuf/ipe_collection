@@ -1,0 +1,17 @@
+<!-- ipecol
+    {
+        "title" : "New Rodin font",
+        "description" : "Sets the sans font to FOT-NewRodin Pro (must be installed and xetex must be chosen as the Latex engine).",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [1],
+        "style_types" : ["preamble"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="New Rodin font">
+	<preamble>
+		\usepackage{fontspec}
+		\setsansfont{FOT-NewRodin Pro} 
+	</preamble>
+</ipestyle>
