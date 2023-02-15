@@ -1,7 +1,7 @@
 <!-- ipecol
     {
         "title" : "New Rodin font",
-        "description" : "Sets the sans font to FOT-NewRodin Pro (must be installed and xetex must be chosen as the Latex engine).",
+        "description" : "Sets the sans font to FOT-NewRodin Pro (must be installed and xetex/lualatex must be chosen as the Latex engine).",
         "provided_by" : ["Soeren Terziadis"],
         "style_count" : [1],
         "style_types" : ["preamble"]

@@ -1,7 +1,7 @@
 <!-- ipecol
     {
         "title" : "Arial font",
-        "description" : "Sets the main font to Arial.",
+        "description" : "Sets the main font to Arial (must be installed and xetex/lualatex must be chosen as the Latex engine).",
         "provided_by" : ["unknown"],
         "style_count" : [1],
         "style_types" : ["preamble"]
