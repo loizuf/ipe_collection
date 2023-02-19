@@ -1,62 +1,32 @@
-## Exponential dash
-*Provided by: Maarten Löffler*
-
-Provides 1 dash styles using exponential increase of the dash length (up to a capped value).
-
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/trail.svg" width="96"> trail
 ## Extended dashes
-
 
 Provides 8 dash styles of dashed and dotted lines scaled to the four standard line thicknesses. The dotted styles require the line cap option to be set to rounded.
 
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dashed_normal.svg" width="96"> W dashed normal
+<details>
+<summary>Click for examples.</summary>
 
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dashed_heavier.svg" width="96"> W dashed heavier
+<img src="svg/W_dashed_normal.svg#svgView(viewBox(0,0,100,100))"> W dashed normal
 
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dashed_fat.svg" width="96"> W dashed fat
+<img src="svg/W_dashed_heavier.svg#svgView(viewBox(0,0,100,100))"> W dashed heavier
 
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dashed_ultrafat.svg" width="96"> W dashed ultrafat
+<img src="svg/W_dashed_fat.svg#svgView(viewBox(0,0,100,100))"> W dashed fat
 
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dot_normal.svg" width="96"> W dot normal
+<img src="svg/W_dashed_ultrafat.svg#svgView(viewBox(0,0,100,100))"> W dashed ultrafat
 
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dot_heavier.svg" width="96"> W dot heavier
+<img src="svg/W_dot_normal.svg#svgView(viewBox(0,0,100,100))"> W dot normal
 
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dot_fat.svg" width="96"> W dot fat
+<img src="svg/W_dot_heavier.svg#svgView(viewBox(0,0,100,100))"> W dot heavier
 
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dot_ultrafat.svg" width="96"> W dot ultrafat
-## More dashes
+<img src="svg/W_dot_fat.svg#svgView(viewBox(0,0,100,100))"> W dot fat
 
+<img src="svg/W_dot_ultrafat.svg#svgView(viewBox(0,0,100,100))"> W dot ultrafat
 
-Provides 9 dash styles of dashed, dotted and mixed lines in different densities.
+</details>
+<br />
 
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/long_dashed.svg" width="96"> long dashed
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="33" style="background-color:white" viewBox="0 0 99 33" width="99" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <path d="M 48 704 L 144 704 " fill="none" stroke="rgb(0%, 0%, 0%)" stroke-dasharray="5 8.5" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" stroke-width="2" transform="matrix(1, 0, 0, -1, -47, 721)"/>
+ <path d="M 48 720 L 48 688 L 144 688 L 144 720 Z M 48 720 " fill="none" stroke="rgb(100%, 100%, 100%)" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" stroke-width="0.4" transform="matrix(1, 0, 0, -1, -47, 721)"/>
+</svg>
 
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/long_dash_dotted.svg" width="96"> long dash dotted
-
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/dense_dotted.svg" width="96"> dense dotted
-
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/medium_dotted.svg" width="96"> medium dotted
-
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/dense_dashed.svg" width="96"> dense dashed
-
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/dashed-narrow.svg" width="96"> dashed-narrow
-
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/dotted-narrow.svg" width="96"> dotted-narrow
-
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/dashed-narrower.svg" width="96"> dashed-narrower
-
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/dotted-narrower.svg" width="96"> dotted-narrower
-## Round dot dashes
-*Provided by: Maarten Löffler*
-
-Provides 5 dash styles using circular dots (in contrast to the dotted style which used short dashes). This dash style requires the line cap option to be set to rounded. Originally provided by Maarten Löffler.
-
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/round_dots_1.svg" width="96"> round dots 1
-
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/round_dots_2.svg" width="96"> round dots 2
-
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/round_dots_4.svg" width="96"> round dots 4
-
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/round_dots_8.svg" width="96"> round dots 8
-
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/round_dots_16.svg" width="96"> round dots 16
