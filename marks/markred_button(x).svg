@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="42" style="background-color:white" viewBox="0 0 42 42" width="42" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient gradientTransform="matrix(0.42, 0, 0, 0.42, 64, 784)" gradientUnits="userSpaceOnUse" id="linear-pattern-0" x1="0" x2="60" y1="0" y2="60">
+   <stop offset="0" stop-color="rgb(100%, 0%, 0%)" stop-opacity="1"/>
+   <stop offset="1" stop-color="rgb(100%, 100%, 100%)" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(-0.3, 0, 0, -0.3, 64, 784)" gradientUnits="userSpaceOnUse" id="linear-pattern-1" x1="0" x2="60" y1="0" y2="60">
+   <stop offset="0" stop-color="rgb(100%, 0%, 0%)" stop-opacity="1"/>
+   <stop offset="1" stop-color="rgb(100%, 100%, 100%)" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(0, 0.3, -0.3, 0, 68.8, 779.2)" gradientUnits="userSpaceOnUse" id="linear-pattern-2" x1="0" x2="10" y1="10" y2="0">
+   <stop offset="0" stop-color="rgb(0%, 0%, 0%)" stop-opacity="1"/>
+   <stop offset="0.2" stop-color="rgb(0%, 0%, 0%)" stop-opacity="1"/>
+   <stop offset="0.5" stop-color="rgb(75%, 56.2%, 37.1%)" stop-opacity="1"/>
+   <stop offset="0.8" stop-color="rgb(0%, 0%, 0%)" stop-opacity="1"/>
+   <stop offset="1" stop-color="rgb(0%, 0%, 0%)" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(0.3, 0, 0, 0.3, 59.2, 779.2)" gradientUnits="userSpaceOnUse" id="linear-pattern-3" x1="0" x2="10" y1="10" y2="0">
+   <stop offset="0" stop-color="rgb(0%, 0%, 0%)" stop-opacity="1"/>
+   <stop offset="0.2" stop-color="rgb(0%, 0%, 0%)" stop-opacity="1"/>
+   <stop offset="0.5" stop-color="rgb(75%, 56.2%, 37.1%)" stop-opacity="1"/>
+   <stop offset="0.8" stop-color="rgb(0%, 0%, 0%)" stop-opacity="1"/>
+   <stop offset="1" stop-color="rgb(0%, 0%, 0%)" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+ <path d="M 84.160156 784 C 84.160156 795.132812 75.132812 804.160156 64 804.160156 C 52.867188 804.160156 43.839844 795.132812 43.839844 784 C 43.839844 772.867188 52.867188 763.839844 64 763.839844 C 75.132812 763.839844 84.160156 772.867188 84.160156 784 Z M 84.160156 784 " fill="url(#linear-pattern-0)" fill-rule="evenodd" stroke="rgb(0%, 0%, 0%)" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" stroke-width="0.5" transform="matrix(1, 0, 0, -1, -43, 805)"/>
+ <path d="M 84.160156 784 C 84.160156 795.132812 75.132812 804.160156 64 804.160156 C 52.867188 804.160156 43.839844 795.132812 43.839844 784 C 43.839844 772.867188 52.867188 763.839844 64 763.839844 C 75.132812 763.839844 84.160156 772.867188 84.160156 784 Z M 84.160156 784 " fill="none" stroke="rgb(0%, 0%, 0%)" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" stroke-width="0.5" transform="matrix(1, 0, 0, -1, -43, 805)"/>
+ <path d="M 49.601562 784 C 49.601562 776.046875 56.046875 769.601562 64 769.601562 C 71.953125 769.601562 78.398438 776.046875 78.398438 784 C 78.398438 791.953125 71.953125 798.398438 64 798.398438 C 56.046875 798.398438 49.601562 791.953125 49.601562 784 Z M 49.601562 784 " fill="url(#linear-pattern-1)" fill-rule="evenodd" stroke="rgb(0%, 0%, 0%)" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" stroke-width="0.5" transform="matrix(1, 0, 0, -1, -43, 805)"/>
+ <path d="M 49.601562 784 C 49.601562 776.046875 56.046875 769.601562 64 769.601562 C 71.953125 769.601562 78.398438 776.046875 78.398438 784 C 78.398438 791.953125 71.953125 798.398438 64 798.398438 C 56.046875 798.398438 49.601562 791.953125 49.601562 784 Z M 49.601562 784 " fill="none" stroke="rgb(0%, 0%, 0%)" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" stroke-width="0.5" transform="matrix(1, 0, 0, -1, -43, 805)"/>
+ <path d="M 61.601562 779.199219 C 61.601562 782.398438 56.800781 782.398438 56.800781 779.199219 C 56.800781 776 61.601562 776 61.601562 779.199219 Z M 61.601562 779.199219 " fill="rgb(0%, 0%, 0%)" fill-opacity="1" fill-rule="evenodd" stroke="rgb(0%, 0%, 0%)" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" stroke-width="0.4" transform="matrix(1, 0, 0, -1, -43, 805)"/>
+ <path d="M 61.601562 788.800781 C 61.601562 792 56.800781 792 56.800781 788.800781 C 56.800781 785.601562 61.601562 785.601562 61.601562 788.800781 Z M 61.601562 788.800781 " fill="rgb(0%, 0%, 0%)" fill-opacity="1" fill-rule="evenodd" stroke="rgb(0%, 0%, 0%)" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" stroke-width="0.4" transform="matrix(1, 0, 0, -1, -43, 805)"/>
+ <path d="M 71.199219 779.199219 C 71.199219 782.398438 66.398438 782.398438 66.398438 779.199219 C 66.398438 776 71.199219 776 71.199219 779.199219 Z M 71.199219 779.199219 " fill="rgb(0%, 0%, 0%)" fill-opacity="1" fill-rule="evenodd" stroke="rgb(0%, 0%, 0%)" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" stroke-width="0.4" transform="matrix(1, 0, 0, -1, -43, 805)"/>
+ <path d="M 71.199219 788.800781 C 71.199219 792 66.398438 792 66.398438 788.800781 C 66.398438 785.601562 71.199219 785.601562 71.199219 788.800781 Z M 71.199219 788.800781 " fill="rgb(0%, 0%, 0%)" fill-opacity="1" fill-rule="evenodd" stroke="rgb(0%, 0%, 0%)" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" stroke-width="0.4" transform="matrix(1, 0, 0, -1, -43, 805)"/>
+ <path d="M 67.953125 778.351562 L 58.351562 787.953125 C 57.21875 789.082031 58.917969 790.78125 60.046875 789.648438 L 69.648438 780.046875 C 70.78125 778.917969 69.082031 777.21875 67.953125 778.351562 Z M 67.953125 778.351562 " fill="url(#linear-pattern-2)" fill-rule="evenodd" stroke="rgb(0%, 0%, 0%)" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" stroke-width="0.4" transform="matrix(1, 0, 0, -1, -43, 805)"/>
+ <path d="M 67.953125 778.351562 L 58.351562 787.953125 C 57.21875 789.082031 58.917969 790.78125 60.046875 789.648438 L 69.648438 780.046875 C 70.78125 778.917969 69.082031 777.21875 67.953125 778.351562 Z M 67.953125 778.351562 " fill="none" stroke="rgb(0%, 0%, 0%)" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" stroke-width="0.4" transform="matrix(1, 0, 0, -1, -43, 805)"/>
+ <path d="M 58.351562 780.046875 L 67.953125 789.648438 C 69.082031 790.78125 70.78125 789.082031 69.648438 787.953125 L 60.046875 778.351562 C 58.917969 777.21875 57.21875 778.917969 58.351562 780.046875 Z M 58.351562 780.046875 " fill="url(#linear-pattern-3)" fill-rule="evenodd" stroke="rgb(0%, 0%, 0%)" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" stroke-width="0.4" transform="matrix(1, 0, 0, -1, -43, 805)"/>
+ <path d="M 58.351562 780.046875 L 67.953125 789.648438 C 69.082031 790.78125 70.78125 789.082031 69.648438 787.953125 L 60.046875 778.351562 C 58.917969 777.21875 57.21875 778.917969 58.351562 780.046875 Z M 58.351562 780.046875 " fill="none" stroke="rgb(0%, 0%, 0%)" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" stroke-width="0.4" transform="matrix(1, 0, 0, -1, -43, 805)"/>
+</svg>
