@@ -1,6 +1,6 @@
 <!-- ipecol
     {
-        "title" : "A0 layout (landscape)",
+        "title" : "A0 layout",
         "description" : "Sets canvas size to DIN A0 format (landscape).",
         "provided_by" : ["Soeren Terziadis"],
         "style_count" : [1],
@@ -9,5 +9,5 @@
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
-<ipestyle name="A0 layout (landscape)">
+<ipestyle name="A0 layout">
 <layout paper="2384 3370" origin="0 0" frame="2384 3370"/></ipestyle>

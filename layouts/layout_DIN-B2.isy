@@ -1,0 +1,13 @@
+<!-- ipecol
+    {
+        "title" : "B2 layout",
+        "description" : "Sets canvas size to DIN B2 format.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [1],
+        "style_types" : ["layout"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="B2 layout">
+<layout paper="1417 2004" origin="0 0" frame="1417 2004"/></ipestyle>

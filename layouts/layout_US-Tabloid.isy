@@ -1,0 +1,13 @@
+<!-- ipecol
+    {
+        "title" : "US Tabloid",
+        "description" : "Sets canvas size to DIN US Tabloid format.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [1],
+        "style_types" : ["layout"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="US Tabloid">
+<layout paper="790 1224" origin="0 0" frame="790 1224"/></ipestyle>

@@ -1,0 +1,13 @@
+<!-- ipecol
+    {
+        "title" : "B6 layout",
+        "description" : "Sets canvas size to DIN B6 format.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [1],
+        "style_types" : ["layout"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="B6 layout">
+<layout paper="354 498" origin="0 0" frame="354 498"/></ipestyle>
