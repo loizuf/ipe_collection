@@ -1,21 +1,126 @@
+## Exponential dash
+*Provided by: Maarten Löffler*
+
+Provides 1 dash styles using exponential increase of the dash length (up to a capped value).
+
+<table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/trail.svg" width="200"></td>
+<td valign="middle">trail</td>
+</tr>
+</table>
+<br />
+
+## Extended dashes
+
+Provides 8 dash styles of dashed and dotted lines scaled to the four standard line thicknesses. The dotted styles require the line cap option to be set to rounded.
+
+<table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dashed_normal.svg" width="200"></td>
+<td valign="middle">W dashed normal</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dashed_heavier.svg" width="200"></td>
+<td valign="middle">W dashed heavier</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dashed_fat.svg" width="200"></td>
+<td valign="middle">W dashed fat</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dashed_ultrafat.svg" width="200"></td>
+<td valign="middle">W dashed ultrafat</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dot_normal.svg" width="200"></td>
+<td valign="middle">W dot normal</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dot_heavier.svg" width="200"></td>
+<td valign="middle">W dot heavier</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dot_fat.svg" width="200"></td>
+<td valign="middle">W dot fat</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dot_ultrafat.svg" width="200"></td>
+<td valign="middle">W dot ultrafat</td>
+</tr>
+</table>
+<br />
 
 ## More dashes
-Provides several new dash styles
 
-<img src="../../assets/dashes/long dashed.svg" width="48">long dashed
+Provides 9 dash styles of dashed, dotted and mixed lines in different densities.
 
-<img src="../../assets/dashes/long dash dotted.svg" width="48">long dash dotted
+<table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/long_dashed.svg" width="200"></td>
+<td valign="middle">long dashed</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/long_dash_dotted.svg" width="200"></td>
+<td valign="middle">long dash dotted</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/dense_dotted.svg" width="200"></td>
+<td valign="middle">dense dotted</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/medium_dotted.svg" width="200"></td>
+<td valign="middle">medium dotted</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/dense_dashed.svg" width="200"></td>
+<td valign="middle">dense dashed</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/dashed-narrow.svg" width="200"></td>
+<td valign="middle">dashed-narrow</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/dotted-narrow.svg" width="200"></td>
+<td valign="middle">dotted-narrow</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/dashed-narrower.svg" width="200"></td>
+<td valign="middle">dashed-narrower</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/dotted-narrower.svg" width="200"></td>
+<td valign="middle">dotted-narrower</td>
+</tr>
+</table>
+<br />
 
-<img src="../../assets/dashes/dense dotted.svg" width="48">dense dotted
+## Round dot dashes
+*Provided by: Maarten Löffler*
 
-<img src="../../assets/dashes/medium dotted.svg" width="48">medium dotted
+Provides 5 dash styles using circular dots (in contrast to the dotted style which used short dashes). This dash style requires the line cap option to be set to rounded. Originally provided by Maarten Löffler.
 
-<img src="../../assets/dashes/dense dashed.svg" width="48">dense dashed
+<table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/round_dots_1.svg" width="200"></td>
+<td valign="middle">round dots 1</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/round_dots_2.svg" width="200"></td>
+<td valign="middle">round dots 2</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/round_dots_4.svg" width="200"></td>
+<td valign="middle">round dots 4</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/round_dots_8.svg" width="200"></td>
+<td valign="middle">round dots 8</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/round_dots_16.svg" width="200"></td>
+<td valign="middle">round dots 16</td>
+</tr>
+</table>
+<br />
 
-<img src="../../assets/dashes/dashed-narrow.svg" width="48">dashed-narrow
-
-<img src="../../assets/dashes/dotted-narrow.svg" width="48">dotted-narrow
-
-<img src="../../assets/dashes/dashed-narrower.svg" width="48">dashed-narrower
-
-<img src="../../assets/dashes/dotted-narrower.svg" width="48">dotted-narrower
