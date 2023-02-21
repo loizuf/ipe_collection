@@ -18,21 +18,21 @@ Provides 8 dash styles of dashed and dotted lines scaled to the four standard li
 
 
 
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dashed_normal.svg" width="256"> W dashed normal <br />
+<img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dashed_normal.svg" width="256"> W dashed normal <br />
 
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dashed_heavier.svg" width="256"> W dashed heavier <br />
+<img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dashed_heavier.svg" width="256"> W dashed heavier <br />
 
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dashed_fat.svg" width="256"> W dashed fat <br />
+<img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dashed_fat.svg" width="256"> W dashed fat <br />
 
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dashed_ultrafat.svg" width="256"> W dashed ultrafat <br />
+<img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dashed_ultrafat.svg" width="256"> W dashed ultrafat <br />
 
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dot_normal.svg" width="256"> W dot normal <br />
+<img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dot_normal.svg" width="256"> W dot normal <br />
 
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dot_heavier.svg" width="256"> W dot heavier <br />
+<img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dot_heavier.svg" width="256"> W dot heavier <br />
 
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dot_fat.svg" width="256"> W dot fat <br />
+<img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dot_fat.svg" width="256"> W dot fat <br />
 
-<img align="left" src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dot_ultrafat.svg" width="256"> W dot ultrafat
+<img src="https://github.com/loizuf/ipe_collection/blob/assets/dashes/W_dot_ultrafat.svg" width="256"> W dot ultrafat
 
 
 
