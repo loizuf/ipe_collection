@@ -1,0 +1,13 @@
+<!-- ipecol
+    {
+        "title" : "B3 layout (landscape)",
+        "description" : "Sets canvas size to DIN B3 format (landscape).",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [1],
+        "style_types" : ["layout"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="B3 layout (landscape)">
+<layout paper="1417 1000" origin="0 0" frame="1417 1000"/></ipestyle>

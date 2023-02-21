@@ -1,0 +1,13 @@
+<!-- ipecol
+    {
+        "title" : "US Letter layout (landscape)",
+        "description" : "Sets canvas size to DIN US Letter format (landscape).",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [1],
+        "style_types" : ["layout"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="US Letter layout (landscape)">
+<layout paper="790 612" origin="0 0" frame="790 612"/></ipestyle>

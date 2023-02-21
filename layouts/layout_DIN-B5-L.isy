@@ -1,0 +1,13 @@
+<!-- ipecol
+    {
+        "title" : "B5 layout (landscape)",
+        "description" : "Sets canvas size to DIN B5 format (landscape).",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [1],
+        "style_types" : ["layout"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="B5 layout (landscape)">
+<layout paper="708 498" origin="0 0" frame="708 498"/></ipestyle>

@@ -1,0 +1,13 @@
+<!-- ipecol
+    {
+        "title" : "US Legal (landscape)",
+        "description" : "Sets canvas size to DIN US Legal format (landscape).",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [1],
+        "style_types" : ["layout"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="US Legal (landscape)">
+<layout paper="1009 612" origin="0 0" frame="1009 612"/></ipestyle>

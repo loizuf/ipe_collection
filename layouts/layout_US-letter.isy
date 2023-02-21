@@ -1,0 +1,13 @@
+<!-- ipecol
+    {
+        "title" : "US Letter layout",
+        "description" : "Sets canvas size to DIN US Letter format.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [1],
+        "style_types" : ["layout"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="US Letter layout">
+<layout paper="612 790" origin="0 0" frame="612 790"/></ipestyle>
