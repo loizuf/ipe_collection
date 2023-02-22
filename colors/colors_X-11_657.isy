@@ -1,8 +1,8 @@
 <!-- ipecol
     {
-        "title" : "Olivier Devillers colors",
-        "description" : "Provides an extensive list of 657 colors.",
-        "provided_by" : ["Olivier Devillers"],
+        "title" : "X11 colors",
+        "description" : "Provides an extensive list of the 657 X11 colors.",
+        "provided_by" : ["Otfried Cheong"],
         "style_count" : [657],
         "style_types" : ["color"]
     }

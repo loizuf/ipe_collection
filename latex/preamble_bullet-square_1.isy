@@ -2,7 +2,7 @@
     {
         "title" : "Rounded square bullet points",
         "description" : "Sets bullet points to rounded squares.",
-        "provided_by" : ["Martin Nöllenburg", "Fabian Klute"],
+        "provided_by" : ["Thomas Bläsius", "Martin Nöllenburg", "Fabian Klute"],
         "style_count" : [1],
         "style_types" : ["preamble"]
     }

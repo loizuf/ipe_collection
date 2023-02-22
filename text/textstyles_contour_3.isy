@@ -1,9 +1,9 @@
 <!-- ipecol
     {
         "title" : "Text contour",
-        "description" : "Provides 2 text styles giving minipage text a white or black contour.",
+        "description" : "Provides 4 text styles giving minipage text a white or black contour (loads the 'contour' package in the preamble).",
         "provided_by" : ["Soeren Terziadis"],
-        "style_count" : [1, 2],
+        "style_count" : [1, 4],
         "style_types" : ["preamble", "textstyle"]
     }
 -->
@@ -13,6 +13,8 @@
 <preamble>
     \usepackage{contour}
 </preamble>
-<textstyle name="contour (black)" begin="\contour{black}{" end="}"/>
-<textstyle name="contour (white)" begin="\contour{white}{" end="}"/>
+<textstyle name="contour (black)" type="minipage" begin="\contour{black}{" end="}"/>
+<textstyle name="contour (white)" type="minipage" begin="\contour{white}{" end="}"/>
+<textstyle name="contour (black)" type="label" begin="\contour{black}{" end="}"/>
+<textstyle name="contour (white)" type="label" begin="\contour{white}{" end="}"/>
 </ipestyle>

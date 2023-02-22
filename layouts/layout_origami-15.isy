@@ -1,0 +1,13 @@
+<!-- ipecol
+    {
+        "title" : "Origami 15cm",
+        "description" : "Sets canvas size to a 15cm by 15cm format (square).",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [1],
+        "style_types" : ["layout"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Origami 15cm">
+<layout paper="425 425" origin="0 0" frame="425 425"/></ipestyle>
