@@ -1,0 +1,35 @@
+<!-- ipecol
+    {
+        "title" : "3D box decoration",
+        "description" : "Provides 1 3D box shaped decoration.",
+        "provided_by" : ["Otfried Cheong"],
+        "style_count" : [1],
+        "style_types" : ["symbol(decoration)"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="3D box decorations">
+<symbol name="decoration/3d-box">
+<group>
+<path stroke="black" fill="lightgray">
+98 206 m
+96 204 l
+96 96 l
+304 96 l
+306 98 l
+306 206 l
+h
+</path>
+<path stroke="black">
+96 204 m
+304 204 l
+304 96 l
+</path>
+<path stroke="black">
+304 204 m
+306 206 l
+</path>
+</group>
+</symbol>
+</ipestyle>

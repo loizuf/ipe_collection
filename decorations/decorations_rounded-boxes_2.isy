@@ -2,7 +2,7 @@
     {
         "title" : "Round box decorations",
         "description" : "Provides 2 box shaped decorations with rounded corners.",
-        "provided_by" : ["unknown"],
+        "provided_by" : ["Otfried Cheong"],
         "style_count" : [2],
         "style_types" : ["symbol(decoration)"]
     }

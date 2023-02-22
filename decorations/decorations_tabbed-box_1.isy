@@ -1,0 +1,30 @@
+<!-- ipecol
+    {
+        "title" : "Tabbed box decoration",
+        "description" : "Provides 1 box shaped decoration.",
+        "provided_by" : ["Otfried Cheong"],
+        "style_count" : [1],
+        "style_types" : ["symbol(decoration)"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Tabbed box decorations">
+<symbol name="decoration/tabbed">
+<path stroke="black" fill="lightgray">
+96 204 m
+96 96 l
+304 96 l
+304 204 l
+108 204 l
+107 207
+106 208
+105 208
+99 208
+98 208
+97 207
+96 204 s
+h
+</path>
+</symbol>
+</ipestyle>
