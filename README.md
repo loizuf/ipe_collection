@@ -39,25 +39,25 @@ For a quick tutorial on how to use decorations look [here]().
 *TODO*
 
 ### Grid Sizes
-*TODO*
+Different spacings for the background grid.
 
 ### LaTeX preambles
-*TODO*
+Predefined latex commands/package imports
 
 ### Layouts for the Ipe Canvas
-*TODO*
+Different canvas sizes for the drawing area of ipe. Various standard sizes are provided. Some restrict the background grid and include side margins.
 
 ### Marks
-*TODO*
+Different symbol styles for the marks tool of IPE.
 
 ### Opacities
-*TODO*
+Different opacitiy values for objects in IPE.
 
 ### Pens
-*TODO*
+Different stroke widths for the line and curve tool of IPE.
 
 ### Text Modifications
-*TODO*
+Different text styles (e.g. bold, italic, right to left, etc.), text sizes and other text related variations.
 
 ### Tilings
-*TODO*
+Different tiling patterns for filled objects in IPE.
