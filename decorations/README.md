@@ -1,4 +1,18 @@
+## 3D box decoration
+*Provided by: Otfried Cheong*
+
+Provides 1 3D box shaped decoration.
+
+<table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/decorations/decoration3d-box.svg" width="200"></td>
+<td valign="middle">decoration/3d-box</td>
+</tr>
+</table>
+<br />
+
 ## Simple box decorations
+*Provided by: Otfried Cheong*
 
 Provides 2 box shaped decorations.
 
@@ -39,7 +53,25 @@ Provides 2 box shaped decorations with rounded corners.
 </table>
 <br />
 
+## Round box decorations light
+*Provided by: Otfried Cheong*
+
+Provides 2 box shaped decorations (light gray) with rounded corners.
+
+<table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/decorations/decorationrounded-box-light-small.svg" width="200"></td>
+<td valign="middle">decoration/rounded-box-light-small</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/decorations/decorationrounded-box-light-large.svg" width="200"></td>
+<td valign="middle">decoration/rounded-box-light-large</td>
+</tr>
+</table>
+<br />
+
 ## Round box decorations
+*Provided by: Otfried Cheong*
 
 Provides 2 box shaped decorations with rounded corners.
 
@@ -51,6 +83,19 @@ Provides 2 box shaped decorations with rounded corners.
 <tr>
 <td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/decorations/decorationrounded-box-large.svg" width="200"></td>
 <td valign="middle">decoration/rounded-box-large</td>
+</tr>
+</table>
+<br />
+
+## Tabbed box decoration
+*Provided by: Otfried Cheong*
+
+Provides 1 box shaped decoration.
+
+<table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/decorations/decorationtabbed.svg" width="200"></td>
+<td valign="middle">decoration/tabbed</td>
 </tr>
 </table>
 <br />
