@@ -1,82 +1,3 @@
-## Algorithms and Complexity colors
-*Provided by: Algorithms and Complexity group - TU Wien*
-
-Provides 4 colors of the corporate identity colors of the Algorithms and Complexity Group at TU Wien.
-
-<table>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/ac-darkblue.svg" width="200"></td>
-<td valign="middle">ac-darkblue</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/ac-lightblue.svg" width="200"></td>
-<td valign="middle">ac-lightblue</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/ac-darkgray.svg" width="200"></td>
-<td valign="middle">ac-darkgray</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/ac-lightgray.svg" width="200"></td>
-<td valign="middle">ac-lightgray</td>
-</tr>
-</table>
-<br />
-
-## AGA research portal colors
-*Provided by: alga group TU Eindhoven, Bettina Speckmann, Bram Custers, Irina Kostitsyna, Jules Wulms, Kevin Verbeek, Max Sondag, Thom Castermans, Tim Ophelders, Willem Sonke, Wouter Meulemans*
-
-Provides 11 colors of the corporate identity colors of the TU Eindhoven.<details>
-<summary>Click for examples.</summary>
-
-<table>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/aga-green-1.svg" width="200"></td>
-<td valign="middle">aga-green-1</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/aga-green-2.svg" width="200"></td>
-<td valign="middle">aga-green-2</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/aga-green-3.svg" width="200"></td>
-<td valign="middle">aga-green-3</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/aga-brown-1.svg" width="200"></td>
-<td valign="middle">aga-brown-1</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/aga-brown-2.svg" width="200"></td>
-<td valign="middle">aga-brown-2</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/aga-blue-1.svg" width="200"></td>
-<td valign="middle">aga-blue-1</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/aga-blue-2.svg" width="200"></td>
-<td valign="middle">aga-blue-2</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/aga-blue-3.svg" width="200"></td>
-<td valign="middle">aga-blue-3</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/aga-grey-1.svg" width="200"></td>
-<td valign="middle">aga-grey-1</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/aga-grey-2.svg" width="200"></td>
-<td valign="middle">aga-grey-2</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/aga-grey-3.svg" width="200"></td>
-<td valign="middle">aga-grey-3</td>
-</tr>
-</table></details>
-<br />
-
 ## Bettina Speckmann colors
 *Provided by: alga group TU Eindhoven, Bettina Speckmann, Bram Custers, Irina Kostitsyna, Jules Wulms, Kevin Verbeek, Max Sondag, Thom Castermans, Tim Ophelders, Willem Sonke, Wouter Meulemans*
 
@@ -324,251 +245,6 @@ Provides 5 colors of an Art Deco color palette.
 </table>
 <br />
 
-## GD red
-
-Provides 1 colors from a logo of the Graph Drawing conference.
-
-<table>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/GD_RED.svg" width="200"></td>
-<td valign="middle">GD RED</td>
-</tr>
-</table>
-<br />
-
-## KIT colors
-
-Provides 56 colors of the corporate identity colors of the Karlsruhe Institute of Technology.<details>
-<summary>Click for examples.</summary>
-
-<table>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITwhite.svg" width="200"></td>
-<td valign="middle">KITwhite</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITblack.svg" width="200"></td>
-<td valign="middle">KITblack</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITblack70.svg" width="200"></td>
-<td valign="middle">KITblack70</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITblack50.svg" width="200"></td>
-<td valign="middle">KITblack50</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITblack30.svg" width="200"></td>
-<td valign="middle">KITblack30</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITblack15.svg" width="200"></td>
-<td valign="middle">KITblack15</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITgreen.svg" width="200"></td>
-<td valign="middle">KITgreen</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITgreen70.svg" width="200"></td>
-<td valign="middle">KITgreen70</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITgreen50.svg" width="200"></td>
-<td valign="middle">KITgreen50</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITgreen30.svg" width="200"></td>
-<td valign="middle">KITgreen30</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITgreen15.svg" width="200"></td>
-<td valign="middle">KITgreen15</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITblue.svg" width="200"></td>
-<td valign="middle">KITblue</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITblue70.svg" width="200"></td>
-<td valign="middle">KITblue70</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITblue50.svg" width="200"></td>
-<td valign="middle">KITblue50</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITblue30.svg" width="200"></td>
-<td valign="middle">KITblue30</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITblue15.svg" width="200"></td>
-<td valign="middle">KITblue15</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITred.svg" width="200"></td>
-<td valign="middle">KITred</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITred70.svg" width="200"></td>
-<td valign="middle">KITred70</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITred50.svg" width="200"></td>
-<td valign="middle">KITred50</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITred30.svg" width="200"></td>
-<td valign="middle">KITred30</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITred15.svg" width="200"></td>
-<td valign="middle">KITred15</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITpalegreen.svg" width="200"></td>
-<td valign="middle">KITpalegreen</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITpalegreen70.svg" width="200"></td>
-<td valign="middle">KITpalegreen70</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITpalegreen50.svg" width="200"></td>
-<td valign="middle">KITpalegreen50</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITpalegreen30.svg" width="200"></td>
-<td valign="middle">KITpalegreen30</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITpalegreen15.svg" width="200"></td>
-<td valign="middle">KITpalegreen15</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITyellow.svg" width="200"></td>
-<td valign="middle">KITyellow</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITyellow70.svg" width="200"></td>
-<td valign="middle">KITyellow70</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITyellow50.svg" width="200"></td>
-<td valign="middle">KITyellow50</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITyellow30.svg" width="200"></td>
-<td valign="middle">KITyellow30</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITyellow15.svg" width="200"></td>
-<td valign="middle">KITyellow15</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITorange.svg" width="200"></td>
-<td valign="middle">KITorange</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITorange70.svg" width="200"></td>
-<td valign="middle">KITorange70</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITorange50.svg" width="200"></td>
-<td valign="middle">KITorange50</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITorange30.svg" width="200"></td>
-<td valign="middle">KITorange30</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITorange15.svg" width="200"></td>
-<td valign="middle">KITorange15</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITbrown.svg" width="200"></td>
-<td valign="middle">KITbrown</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITbrown70.svg" width="200"></td>
-<td valign="middle">KITbrown70</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITbrown50.svg" width="200"></td>
-<td valign="middle">KITbrown50</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITbrown30.svg" width="200"></td>
-<td valign="middle">KITbrown30</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITbrown15.svg" width="200"></td>
-<td valign="middle">KITbrown15</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITlilac.svg" width="200"></td>
-<td valign="middle">KITlilac</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITlilac70.svg" width="200"></td>
-<td valign="middle">KITlilac70</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITlilac50.svg" width="200"></td>
-<td valign="middle">KITlilac50</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITlilac30.svg" width="200"></td>
-<td valign="middle">KITlilac30</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITlilac15.svg" width="200"></td>
-<td valign="middle">KITlilac15</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITcyanblue.svg" width="200"></td>
-<td valign="middle">KITcyanblue</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITcyanblue70.svg" width="200"></td>
-<td valign="middle">KITcyanblue70</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITcyanblue50.svg" width="200"></td>
-<td valign="middle">KITcyanblue50</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITcyanblue30.svg" width="200"></td>
-<td valign="middle">KITcyanblue30</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITcyanblue15.svg" width="200"></td>
-<td valign="middle">KITcyanblue15</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITseablue.svg" width="200"></td>
-<td valign="middle">KITseablue</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITseablue70.svg" width="200"></td>
-<td valign="middle">KITseablue70</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITseablue50.svg" width="200"></td>
-<td valign="middle">KITseablue50</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITseablue30.svg" width="200"></td>
-<td valign="middle">KITseablue30</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/KITseablue15.svg" width="200"></td>
-<td valign="middle">KITseablue15</td>
-</tr>
-</table></details>
-<br />
-
 ## Laser colors
 *Provided by: Maarten Löffler*
 
@@ -614,10 +290,205 @@ Provides 9 colors of brick, mortar, steel, lasers and ghosts.
 </table>
 <br />
 
-## Olivier Devillers colors
-*Provided by: Olivier Devillers*
+## Philipp Kindermann/Jonathan Klawitter colors
+*Provided by: Philipp Kindermann, Jonathan Klawitter*
 
-Provides an extensive list of 657 colors.<details>
+Provides 33 colors.<details>
+<summary>Click for examples.</summary>
+
+<table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/black.svg" width="200"></td>
+<td valign="middle">black</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_blue.svg" width="200"></td>
+<td valign="middle">dark blue</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_brown.svg" width="200"></td>
+<td valign="middle">dark brown</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_cyan.svg" width="200"></td>
+<td valign="middle">dark cyan</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_gray.svg" width="200"></td>
+<td valign="middle">dark gray</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_green.svg" width="200"></td>
+<td valign="middle">dark green</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_magenta.svg" width="200"></td>
+<td valign="middle">dark magenta</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_orange.svg" width="200"></td>
+<td valign="middle">dark orange</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_pink.svg" width="200"></td>
+<td valign="middle">dark pink</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_purple.svg" width="200"></td>
+<td valign="middle">dark purple</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_red.svg" width="200"></td>
+<td valign="middle">dark red</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_yellow.svg" width="200"></td>
+<td valign="middle">dark yellow</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/gold.svg" width="200"></td>
+<td valign="middle">gold</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/gray.svg" width="200"></td>
+<td valign="middle">gray</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/light_blue.svg" width="200"></td>
+<td valign="middle">light blue</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/light_brown.svg" width="200"></td>
+<td valign="middle">light brown</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/light_cyan.svg" width="200"></td>
+<td valign="middle">light cyan</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/light_gray.svg" width="200"></td>
+<td valign="middle">light gray</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/light_green.svg" width="200"></td>
+<td valign="middle">light green</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/light_orange.svg" width="200"></td>
+<td valign="middle">light orange</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/light_pink.svg" width="200"></td>
+<td valign="middle">light pink</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/light_purple.svg" width="200"></td>
+<td valign="middle">light purple</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/light_red.svg" width="200"></td>
+<td valign="middle">light red</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/light_yellow.svg" width="200"></td>
+<td valign="middle">light yellow</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/mid_red.svg" width="200"></td>
+<td valign="middle">mid red</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/navy.svg" width="200"></td>
+<td valign="middle">navy</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/orange.svg" width="200"></td>
+<td valign="middle">orange</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/pink.svg" width="200"></td>
+<td valign="middle">pink</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/purple.svg" width="200"></td>
+<td valign="middle">purple</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/seagreen.svg" width="200"></td>
+<td valign="middle">seagreen</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/turquoise.svg" width="200"></td>
+<td valign="middle">turquoise</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/violet.svg" width="200"></td>
+<td valign="middle">violet</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/white.svg" width="200"></td>
+<td valign="middle">white</td>
+</tr>
+</table></details>
+<br />
+
+## Retro colors
+*Provided by: Soeren Terziadis*
+
+Provides 5 colors of a retro color palette.
+
+<table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/GREEN.svg" width="200"></td>
+<td valign="middle">GREEN</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/BROWN.svg" width="200"></td>
+<td valign="middle">BROWN</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/SAND.svg" width="200"></td>
+<td valign="middle">SAND</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/ORANGE.svg" width="200"></td>
+<td valign="middle">ORANGE</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/RED.svg" width="200"></td>
+<td valign="middle">RED</td>
+</tr>
+</table>
+<br />
+
+## Shonan colors
+
+Provides 4 colors from the logo of the Shonan Meeting.
+
+<table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C666666.svg" width="200"></td>
+<td valign="middle">C666666</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C4353A1.svg" width="200"></td>
+<td valign="middle">C4353A1</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C77CCFF.svg" width="200"></td>
+<td valign="middle">C77CCFF</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C22AAEE.svg" width="200"></td>
+<td valign="middle">C22AAEE</td>
+</tr>
+</table>
+<br />
+
+## X11 colors
+*Provided by: Otfried Cheong*
+
+Provides an extensive list of the 657 X11 colors.<details>
 <summary>Click for examples.</summary>
 
 <table>
@@ -3252,366 +3123,61 @@ Provides an extensive list of 657 colors.<details>
 </table></details>
 <br />
 
-## Philipp Kindermann/Jonathan Klawitter colors
-*Provided by: Philipp Kindermann, Jonathan Klawitter*
+## Cyclic order colors
+*Provided by: Maarten Löffler*
 
-Provides 33 colors.<details>
+Provides twelve colors suitable to color things in a (cyclic) order.<details>
 <summary>Click for examples.</summary>
 
 <table>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/black.svg" width="200"></td>
-<td valign="middle">black</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/message1.svg" width="200"></td>
+<td valign="middle">message1</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_blue.svg" width="200"></td>
-<td valign="middle">dark blue</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/message2.svg" width="200"></td>
+<td valign="middle">message2</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_brown.svg" width="200"></td>
-<td valign="middle">dark brown</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/message3.svg" width="200"></td>
+<td valign="middle">message3</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_cyan.svg" width="200"></td>
-<td valign="middle">dark cyan</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/message4.svg" width="200"></td>
+<td valign="middle">message4</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_gray.svg" width="200"></td>
-<td valign="middle">dark gray</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/message5.svg" width="200"></td>
+<td valign="middle">message5</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_green.svg" width="200"></td>
-<td valign="middle">dark green</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/message6.svg" width="200"></td>
+<td valign="middle">message6</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_magenta.svg" width="200"></td>
-<td valign="middle">dark magenta</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/message7.svg" width="200"></td>
+<td valign="middle">message7</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_orange.svg" width="200"></td>
-<td valign="middle">dark orange</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/message8.svg" width="200"></td>
+<td valign="middle">message8</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_pink.svg" width="200"></td>
-<td valign="middle">dark pink</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/message9.svg" width="200"></td>
+<td valign="middle">message9</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_purple.svg" width="200"></td>
-<td valign="middle">dark purple</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/message10.svg" width="200"></td>
+<td valign="middle">message10</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_red.svg" width="200"></td>
-<td valign="middle">dark red</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/message11.svg" width="200"></td>
+<td valign="middle">message11</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/dark_yellow.svg" width="200"></td>
-<td valign="middle">dark yellow</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/gold.svg" width="200"></td>
-<td valign="middle">gold</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/gray.svg" width="200"></td>
-<td valign="middle">gray</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/light_blue.svg" width="200"></td>
-<td valign="middle">light blue</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/light_brown.svg" width="200"></td>
-<td valign="middle">light brown</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/light_cyan.svg" width="200"></td>
-<td valign="middle">light cyan</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/light_gray.svg" width="200"></td>
-<td valign="middle">light gray</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/light_green.svg" width="200"></td>
-<td valign="middle">light green</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/light_orange.svg" width="200"></td>
-<td valign="middle">light orange</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/light_pink.svg" width="200"></td>
-<td valign="middle">light pink</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/light_purple.svg" width="200"></td>
-<td valign="middle">light purple</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/light_red.svg" width="200"></td>
-<td valign="middle">light red</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/light_yellow.svg" width="200"></td>
-<td valign="middle">light yellow</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/mid_red.svg" width="200"></td>
-<td valign="middle">mid red</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/navy.svg" width="200"></td>
-<td valign="middle">navy</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/orange.svg" width="200"></td>
-<td valign="middle">orange</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/pink.svg" width="200"></td>
-<td valign="middle">pink</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/purple.svg" width="200"></td>
-<td valign="middle">purple</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/seagreen.svg" width="200"></td>
-<td valign="middle">seagreen</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/turquoise.svg" width="200"></td>
-<td valign="middle">turquoise</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/violet.svg" width="200"></td>
-<td valign="middle">violet</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/white.svg" width="200"></td>
-<td valign="middle">white</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/message12.svg" width="200"></td>
+<td valign="middle">message12</td>
 </tr>
 </table></details>
-<br />
-
-## Powerpoint colors
-*Provided by: alga group TU Eindhoven, Bettina Speckmann, Bram Custers, Irina Kostitsyna, Jules Wulms, Kevin Verbeek, Max Sondag, Thom Castermans, Tim Ophelders, Willem Sonke, Wouter Meulemans*
-
-Provides 6 colors of Microsoft Powerpoint.
-
-<table>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/PPT_blue.svg" width="200"></td>
-<td valign="middle">PPT blue</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/PPT_green.svg" width="200"></td>
-<td valign="middle">PPT green</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/PPT_gray.svg" width="200"></td>
-<td valign="middle">PPT gray</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/PPT_red.svg" width="200"></td>
-<td valign="middle">PPT red</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/PPT_purple.svg" width="200"></td>
-<td valign="middle">PPT purple</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/PPT_yellow.svg" width="200"></td>
-<td valign="middle">PPT yellow</td>
-</tr>
-</table>
-<br />
-
-## Retro colors
-*Provided by: Soeren Terziadis*
-
-Provides 5 colors of a retro color palette.
-
-<table>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/GREEN.svg" width="200"></td>
-<td valign="middle">GREEN</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/BROWN.svg" width="200"></td>
-<td valign="middle">BROWN</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/SAND.svg" width="200"></td>
-<td valign="middle">SAND</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/ORANGE.svg" width="200"></td>
-<td valign="middle">ORANGE</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/RED.svg" width="200"></td>
-<td valign="middle">RED</td>
-</tr>
-</table>
-<br />
-
-## Shonan colors
-
-Provides 4 colors from the logo of the Shonan Meeting.
-
-<table>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C666666.svg" width="200"></td>
-<td valign="middle">C666666</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C4353A1.svg" width="200"></td>
-<td valign="middle">C4353A1</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C77CCFF.svg" width="200"></td>
-<td valign="middle">C77CCFF</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C22AAEE.svg" width="200"></td>
-<td valign="middle">C22AAEE</td>
-</tr>
-</table>
-<br />
-
-## TU Eindhoven colors
-*Provided by: alga group TU Eindhoven, Bettina Speckmann, Bram Custers, Irina Kostitsyna, Jules Wulms, Kevin Verbeek, Max Sondag, Thom Castermans, Tim Ophelders, Willem Sonke, Wouter Meulemans*
-
-Provides 13 colors of the corporate identity colors of the TU Eindhoven.<details>
-<summary>Click for examples.</summary>
-
-<table>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/TUe_red.svg" width="200"></td>
-<td valign="middle">TUe red</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/TUe_cyan.svg" width="200"></td>
-<td valign="middle">TUe cyan</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/TUe_blue.svg" width="200"></td>
-<td valign="middle">TUe blue</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/TUe_green.svg" width="200"></td>
-<td valign="middle">TUe green</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/TUe_orange.svg" width="200"></td>
-<td valign="middle">TUe orange</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/TUe_darkred.svg" width="200"></td>
-<td valign="middle">TUe darkred</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/TUe_darkpink.svg" width="200"></td>
-<td valign="middle">TUe darkpink</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/TUe_purple.svg" width="200"></td>
-<td valign="middle">TUe purple</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/TUe_darkblue.svg" width="200"></td>
-<td valign="middle">TUe darkblue</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/TUe_yellow.svg" width="200"></td>
-<td valign="middle">TUe yellow</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/TUe_lime.svg" width="200"></td>
-<td valign="middle">TUe lime</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/TUe_aqua.svg" width="200"></td>
-<td valign="middle">TUe aqua</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/TUe_marine.svg" width="200"></td>
-<td valign="middle">TUe marine</td>
-</tr>
-</table></details>
-<br />
-
-## TU Wien colors
-*Provided by: TU Wien*
-
-Provides 5 colors of the corporate identity colors of TU Wien.
-
-<table>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/TUblack.svg" width="200"></td>
-<td valign="middle">TUblack</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/TUwhite.svg" width="200"></td>
-<td valign="middle">TUwhite</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/TUblue.svg" width="200"></td>
-<td valign="middle">TUblue</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/TUred.svg" width="200"></td>
-<td valign="middle">TUred</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/TUgray.svg" width="200"></td>
-<td valign="middle">TUgray</td>
-</tr>
-</table>
-<br />
-
-## Universiteit Utrecht colors
-
-Provides 9 colors of the corporate identity colors of the University Utrecht.
-
-<table>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/UUyellow.svg" width="200"></td>
-<td valign="middle">UUyellow</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/UUred.svg" width="200"></td>
-<td valign="middle">UUred</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/UUorange.svg" width="200"></td>
-<td valign="middle">UUorange</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/UUburgundy.svg" width="200"></td>
-<td valign="middle">UUburgundy</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/UUbrown.svg" width="200"></td>
-<td valign="middle">UUbrown</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/UUgreen.svg" width="200"></td>
-<td valign="middle">UUgreen</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/UUblue.svg" width="200"></td>
-<td valign="middle">UUblue</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/UUdarkblue.svg" width="200"></td>
-<td valign="middle">UUdarkblue</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/UUpurple.svg" width="200"></td>
-<td valign="middle">UUpurple</td>
-</tr>
-</table>
 <br />
 
