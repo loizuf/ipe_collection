@@ -1,0 +1,25 @@
+<!-- ipecol
+    {
+        "title" : "Cyclic order colors",
+        "description" : "Provides twelve colors suitable to color things in a (cyclic) order.",
+        "provided_by" : ["Maarten Löffler"],
+        "style_count" : [12],
+        "style_types" : ["color"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Cyclic order colors">
+<color name="message1" value="0.60 0.20 0.20"/>
+<color name="message2" value="0.60 0.40 0.20"/>
+<color name="message3" value="0.60 0.60 0.20"/>
+<color name="message4" value="0.40 0.60 0.20"/>
+<color name="message5" value="0.20 0.60 0.20"/>
+<color name="message6" value="0.20 0.60 0.40"/>
+<color name="message7" value="0.20 0.60 0.60"/>
+<color name="message8" value="0.20 0.40 0.60"/>
+<color name="message9" value="0.20 0.20 0.60"/>
+<color name="message10" value="0.40 0.20 0.60"/>
+<color name="message11" value="0.60 0.20 0.60"/>
+<color name="message12" value="0.60 0.20 0.40"/>
+</ipestyle>
