@@ -1,3 +1,85 @@
+## Mossels marks
+*Provided by: Maarten Löffler*
+
+Provides box shaped marks with a number inside and a tiled backdrop. Includes nine color styles used by the marks.<details>
+<summary>Click for examples.</summary>
+
+<table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-1(x).svg" width="200"></td>
+<td valign="middle">mark/mossel-1(x)</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-2(x).svg" width="200"></td>
+<td valign="middle">mark/mossel-2(x)</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-3(x).svg" width="200"></td>
+<td valign="middle">mark/mossel-3(x)</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-4(x).svg" width="200"></td>
+<td valign="middle">mark/mossel-4(x)</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-5(x).svg" width="200"></td>
+<td valign="middle">mark/mossel-5(x)</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-6(x).svg" width="200"></td>
+<td valign="middle">mark/mossel-6(x)</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-7(x).svg" width="200"></td>
+<td valign="middle">mark/mossel-7(x)</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-8(x).svg" width="200"></td>
+<td valign="middle">mark/mossel-8(x)</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-9(x).svg" width="200"></td>
+<td valign="middle">mark/mossel-9(x)</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message1.svg" width="200"></td>
+<td valign="middle">message1</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message2.svg" width="200"></td>
+<td valign="middle">message2</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message3.svg" width="200"></td>
+<td valign="middle">message3</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message4.svg" width="200"></td>
+<td valign="middle">message4</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message5.svg" width="200"></td>
+<td valign="middle">message5</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message6.svg" width="200"></td>
+<td valign="middle">message6</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message7.svg" width="200"></td>
+<td valign="middle">message7</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message8.svg" width="200"></td>
+<td valign="middle">message8</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message9.svg" width="200"></td>
+<td valign="middle">message9</td>
+</tr>
+</table></details>
+<br />
+
 ## Button marks
 *Provided by: Maarten Löffler*
 
@@ -135,88 +217,6 @@ Provides metro map station style marks (stadium/pill shaped) for one two or thre
 <td valign="middle">mark/fmetro-3(sx)</td>
 </tr>
 </table>
-<br />
-
-## Mossels marks
-*Provided by: Maarten Löffler*
-
-Provides box shaped marks with a number inside and a tiled backdrop. Includes nine color styles used by the marks.<details>
-<summary>Click for examples.</summary>
-
-<table>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-1(x).svg" width="200"></td>
-<td valign="middle">mark/mossel-1(x)</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-2(x).svg" width="200"></td>
-<td valign="middle">mark/mossel-2(x)</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-3(x).svg" width="200"></td>
-<td valign="middle">mark/mossel-3(x)</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-4(x).svg" width="200"></td>
-<td valign="middle">mark/mossel-4(x)</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-5(x).svg" width="200"></td>
-<td valign="middle">mark/mossel-5(x)</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-6(x).svg" width="200"></td>
-<td valign="middle">mark/mossel-6(x)</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-7(x).svg" width="200"></td>
-<td valign="middle">mark/mossel-7(x)</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-8(x).svg" width="200"></td>
-<td valign="middle">mark/mossel-8(x)</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-9(x).svg" width="200"></td>
-<td valign="middle">mark/mossel-9(x)</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message1.svg" width="200"></td>
-<td valign="middle">message1</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message2.svg" width="200"></td>
-<td valign="middle">message2</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message3.svg" width="200"></td>
-<td valign="middle">message3</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message4.svg" width="200"></td>
-<td valign="middle">message4</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message5.svg" width="200"></td>
-<td valign="middle">message5</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message6.svg" width="200"></td>
-<td valign="middle">message6</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message7.svg" width="200"></td>
-<td valign="middle">message7</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message8.svg" width="200"></td>
-<td valign="middle">message8</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message9.svg" width="200"></td>
-<td valign="middle">message9</td>
-</tr>
-</table></details>
 <br />
 
 ## Mouse click marks
