@@ -1,0 +1,16 @@
+<!-- ipecol
+    {
+        "title" : "Odd angles",
+        "description" : "Provides 3 additional angles for the angular snap, which result in an odd number of lines, specifically 24, 40 and 72 degrees.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [2],
+        "style_types" : ["anglesize"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Odd angles">
+<anglesize name="24 deg" value="24"/>
+<anglesize name="40 deg" value="40"/>
+<anglesize name="72 deg" value="72"/>
+</ipestyle>

@@ -1,0 +1,15 @@
+<!-- ipecol
+    {
+        "title" : "Large angles",
+        "description" : "Provides 2 additional angles for the angular snap, which are larger than 90 degrees, specifically 120 and 180 degrees.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [2],
+        "style_types" : ["anglesize"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Large angles">
+<anglesize name="120 deg" value="120"/>
+<anglesize name="180 deg" value="180"/>
+</ipestyle>
