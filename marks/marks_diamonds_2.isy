@@ -11,9 +11,11 @@
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
 <ipestyle name="Diamond marks">
 <symbol name="mark/diamond(sx)" transformations="translations">
-<path fill="sym-stroke">
--0.6 0 m 0 0.6 l 0.6 0 l 0 -0.6 l h
-</path></symbol>
+<path matrix="1 0 0 1 -273.303 -165.952" stroke="blue" arrow="normal/normal">
+247.232 154.159 m
+299.375 177.745 l
+</path>
+</symbol>
 <symbol name="mark/fdiamond(sfx)" transformations="translations">
 <group><path fill="sym-fill">
 -0.5 0 m 0 0.5 l 0.5 0 l 0 -0.5 l h</path>

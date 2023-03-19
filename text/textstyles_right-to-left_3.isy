@@ -3,8 +3,8 @@
         "title" : "Right to left text",
         "description" : "Provides 2 text styles allowing for right to left text (loads the 'bidi' package and xetex must be chosen as the Latex engine).",
         "provided_by" : ["Otfried Cheong"],
-        "style_count" : [2],
-        "style_types" : ["textstyle"]
+        "style_count" : [1, 2],
+        "style_types" : ["preamble", "textstyle"]
     }
 -->
 <?xml version="1.0"?>

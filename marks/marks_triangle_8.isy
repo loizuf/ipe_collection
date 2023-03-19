@@ -1,0 +1,53 @@
+<!-- ipecol
+    {
+        "title" : "Triangle marks",
+        "description" : "Provides triangle marks pointing in 4 directions (solid and filled).",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [2],
+        "style_types" : ["symbol(mark)"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Triangle marks">
+<symbol name="mark/triangle-left(sx)" transformations="translations">
+<path fill="sym-stroke">
+-0.6 0 m 0 0.6 l 0 -0.6 l h
+</path></symbol>
+<symbol name="mark/ftriangle-left(sfx)" transformations="translations">
+<group><path fill="sym-fill">
+-0.5 0 m 0 0.5 l 0 -0.5 l h</path>
+<path fill="sym-stroke" fillrule="eofill">
+-0.6 0 m 0 0.6 l 0 -0.6 l h
+-0.4 0 m 0 0.4 l 0 -0.4 l h</path></group></symbol>
+<symbol name="mark/triangle-right(sx)" transformations="translations">
+<path fill="sym-stroke">
+0 0.6 m 0.6 0 l 0 -0.6 l h
+</path></symbol>
+<symbol name="mark/ftriangle-right(sfx)" transformations="translations">
+<group><path fill="sym-fill">
+0 0.5 m 0.5 0 l 0 -0.5 l h</path>
+<path fill="sym-stroke" fillrule="eofill">
+0 0.6 m 0.6 0 l 0 -0.6 l h
+0 0.4 m 0.4 0 l 0 -0.4 l h</path></group></symbol>
+<symbol name="mark/triangle-down(sx)" transformations="translations">
+<path fill="sym-stroke">
+-0.6 0 m 0.6 0 l 0 -0.6 l h
+</path></symbol>
+<symbol name="mark/ftriangle-down(sfx)" transformations="translations">
+<group><path fill="sym-fill">
+-0.5 0 m 0.5 0 l 0 -0.5 l h</path>
+<path fill="sym-stroke" fillrule="eofill">
+-0.6 0 m 0.6 0 l 0 -0.6 l h
+-0.4 0 m 0.4 0 l 0 -0.4 l h</path></group></symbol>
+<symbol name="mark/triangle-up(sx)" transformations="translations">
+<path fill="sym-stroke">
+-0.6 0 m 0 0.6 l 0.6 0 l h
+</path></symbol>
+<symbol name="mark/ftriangle-up(sfx)" transformations="translations">
+<group><path fill="sym-fill">
+-0.5 0 m 0 0.5 l 0.5 0 l h</path>
+<path fill="sym-stroke" fillrule="eofill">
+-0.6 0 m 0 0.6 l 0.6 0 l h
+-0.4 0 m 0 0.4 l 0.4 0 l h</path></group></symbol>
+</ipestyle>
