@@ -1,0 +1,49 @@
+<!-- ipecol
+    {
+        "title" : "Morse dashes",
+        "description" : "Provides 3 triple dash styles.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [36],
+        "style_types" : ["dashstyle"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Morse dashes">
+<dashstyle name="Morse A" value="[2 2 6 6] 0"/>
+<dashstyle name="Morse B" value="[6 2 2 2 2 2 2 6] 0"/>
+<dashstyle name="Morse C" value="[6 2 2 2 6 2 2 6] 0"/>
+<dashstyle name="Morse D" value="[6 2 2 2 2 6] 0"/>
+<dashstyle name="Morse E" value="[2 6] 0"/>
+<dashstyle name="Morse F" value="[2 2 2 2 6 2 2 6] 0"/>
+<dashstyle name="Morse G" value="[6 2 6 2 2 6] 0"/>
+<dashstyle name="Morse H" value="[2 2 2 2 2 2 2 6] 0"/>
+<dashstyle name="Morse I" value="[2 2 2 6] 0"/>
+<dashstyle name="Morse J" value="[2 2 6 2 6 2 6 6] 0"/>
+<dashstyle name="Morse K" value="[6 2 2 2 6 6] 0"/>
+<dashstyle name="Morse L" value="[2 2 6 2 2 2 2 6] 0"/>
+<dashstyle name="Morse M" value="[6 2 6 6] 0"/>
+<dashstyle name="Morse N" value="[6 2 2 6] 0"/>
+<dashstyle name="Morse O" value="[6 2 6 2 6 6] 0"/>
+<dashstyle name="Morse P" value="[2 2 6 2 6 2 2 6] 0"/>
+<dashstyle name="Morse Q" value="[6 2 6 2 2 2 6 6] 0"/>
+<dashstyle name="Morse R" value="[2 2 6 2 2 6] 0"/>
+<dashstyle name="Morse S" value="[2 2 2 2 2 6] 0"/>
+<dashstyle name="Morse T" value="[6 6] 0"/>
+<dashstyle name="Morse U" value="[2 2 2 2 6 6] 0"/>
+<dashstyle name="Morse V" value="[2 2 2 2 2 2 6 6] 0"/>
+<dashstyle name="Morse W" value="[2 2 6 2 6 6] 0"/>
+<dashstyle name="Morse X" value="[6 2 2 2 2 2 6 6] 0"/>
+<dashstyle name="Morse Y" value="[6 2 2 2 6 2 6 6] 0"/>
+<dashstyle name="Morse Z" value="[6 2 6 2 2 2 2 6] 0"/>
+<dashstyle name="Morse 1" value="[2 2 6 2 6 2 6 2 6 6] 0"/>
+<dashstyle name="Morse 2" value="[2 2 2 2 6 2 6 2 6 6] 0"/>
+<dashstyle name="Morse 3" value="[2 2 2 2 2 2 6 2 6 6] 0"/>
+<dashstyle name="Morse 4" value="[2 2 2 2 2 2 2 2 6 6] 0"/>
+<dashstyle name="Morse 5" value="[2 2 2 2 2 2 2 2 2 6] 0"/>
+<dashstyle name="Morse 6" value="[6 2 2 2 2 2 2 2 2 6] 0"/>
+<dashstyle name="Morse 7" value="[6 2 6 2 2 2 2 2 2 6] 0"/>
+<dashstyle name="Morse 8" value="[6 2 6 2 6 2 2 2 2 6] 0"/>
+<dashstyle name="Morse 9" value="[6 2 6 2 6 2 6 2 2 6] 0"/>
+<dashstyle name="Morse 0" value="[6 2 6 2 6 2 6 2 6 6] 0"/>
+</ipestyle>

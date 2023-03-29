@@ -1,0 +1,16 @@
+<!-- ipecol
+    {
+        "title" : "Triple dashes",
+        "description" : "Provides 3 triple dash styles.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [3],
+        "style_types" : ["dashstyle"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Triple dashes">
+<dashstyle name="long triple dashed" value="[12 6 6 6 3 6 6 6] 0"/>
+<dashstyle name="medium dashed" value="[8 4 4 4 2 4 4 4] 0"/>
+<dashstyle name="short dashed" value="[4 2 2 2 1 2 2 2] 0"/>
+</ipestyle>
