@@ -1,24 +1,22 @@
 # Ipe Stylefile Collection
 
-The Ipe stylefile collection contains a set of stylefiles for the popular SVG editor [Ipe](https://ipe.otfried.org/).
+The Ipe stylefile collection contains a set of stylefiles for the popular SVG editor [Ipe](https://ipe.otfried.org/). The styles are sorted into folders according to the attributes defined within them. The Readme files in the specific folders display the contents of the contained stylefiles with a preview of the defined attributes (where possible).
 
 ## Usage
-To use a stylefile download it and import it via "Edit -> Stylesheets".
+To use a stylefile download it and import it via "Edit -> Stylesheets" (Shortcut [CTRL]+[SHIFT]+[S]).
 
 ## Contribution
-If you have an useful and/or interesting stylesheet that you would be happy to contribute to this collection, you can either email us directly or open a new discussion on this repository.
-To keep the collection organized we made up some general guidelines to harmonize all the stylesheets in this collection:
-
-*TODO*
+If you have an useful and/or interesting stylesheet that you would be happy to contribute to this collection (for example if you adapted one of the style files in this repository), you can either email us directly or open a new discussion on this repository.
 
 ## Categories
-The stylefiles are loosely sorted into the following categories.
+The stylesheets are loosely sorted into the following categories.
 
 ### Angles
 Stylesheets that modifiy the possible angle values for Ipe's angular snap ([Angular snap in the Ipe manual](https://ipe.otfried.org/manual/manual_25.html)).
 
 ### Arrowheads
-Contains stylefiles that provide additional and different arrowhead shapes (and placements). These are useful for drawing directed graph edges, distance indicators, etc...
+Stylesheets that provide additional and different arrowhead shapes (and placements). These are useful for drawing directed graph edges, distance indicators, etc...
+This folder includes previews.
 
 ### Backgrounds
 Stylesheets that set a specific background for the Ipe canvas. 
@@ -27,34 +25,41 @@ wanting a background on each page that can not be modified.
 
 ### Colors
 Different colors to the default ones defined in Ipe.
+This folder includes previews.
 
 ### Dashes
 Different dash-patterns for the line and curve tools of Ipe.
+This folder includes previews.
 
 ### Decorations
-Group decorations that can be used to box text or groups of graphical objects.
-For a quick tutorial on how to use decorations look [here]().
+Different group decorations that can be used to box text or groups of graphical objects. A decoration defines a decorative element, which encloses grouped element and scales to the group size.
+For a short explanation on how to use decorations look [here](https://ipe.otfried.org/manual/manual_19.html).
+This folder includes previews.
 
 ### PDF Effects
-*TODO*
+Stylesheets that provide effects. This currently only covers PDF slide transitions. For reference on how to use them, please see [this section in the ipe manual](https://ipe.otfried.org/manual/manual_40.html).
 
 ### Grid Sizes
-Different spacings for the background grid.
+Different spacings for the background grid that can be used for grid snapping.
 
 ### LaTeX preambles
-Predefined latex commands/package imports
+Predefined latex commands/package imports (different fonts, bulletpoint definitions, etc.)
 
 ### Layouts for the Ipe Canvas
-Different canvas sizes for the drawing area of ipe. Various standard sizes are provided. Some restrict the background grid and include side margins.
+Different canvas sizes for the drawing area of ipe. Various standard sizes are provided (DIN norms, US sizes). Some restrict the background grid and include side margins (for example to represent the predefined margins of publisher templates like LNCS).
 
 ### Marks
-Different symbol styles for the marks tool of IPE.
+Different symbol styles for the marks tool of IPE. These are useful for styling point objectes or graph vertices.
+This folder includes previews.
 
 ### Opacities
 Different opacitiy values for objects in IPE.
 
 ### Pens
 Different stroke widths for the line and curve tool of IPE.
+
+### Templates
+Stylesheets that contain a variety of different attributes, and can be used as templates for presentation or posters. Some of these stylesheets might be intended to be used as a REPLACEMENT of the preloaded basic.isy. Please refer to the documentation of the individual files.
 
 ### Text Modifications
 Different text styles (e.g. bold, italic, right to left, etc.), text sizes and other text related variations.
