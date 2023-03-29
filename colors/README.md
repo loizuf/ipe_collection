@@ -2742,93 +2742,6 @@ Provides 13 colors and 11 shades of Gray. Originally created for use in cartogra
 </table></details>
 <br />
 
-## Colorblind colors
-*Provided by: alga group TU Eindhoven, Bettina Speckmann, Bram Custers, Irina Kostitsyna, Jules Wulms, Kevin Verbeek, Max Sondag, Thom Castermans, Tim Ophelders, Willem Sonke, Wouter Meulemans*
-
-Provides 12 colors. Aimed to be appropriate for color-blind users.<details>
-<summary>Click for examples.</summary>
-
-<table>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_light_blue.svg" width="200"></td>
-<td valign="middle">CB light blue</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_dark_blue.svg" width="200"></td>
-<td valign="middle">CB dark blue</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_light_green.svg" width="200"></td>
-<td valign="middle">CB light green</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_dark_green.svg" width="200"></td>
-<td valign="middle">CB dark green</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_light_red.svg" width="200"></td>
-<td valign="middle">CB light red</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_dark_red.svg" width="200"></td>
-<td valign="middle">CB dark red</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_light_orange.svg" width="200"></td>
-<td valign="middle">CB light orange</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_dark_orange.svg" width="200"></td>
-<td valign="middle">CB dark orange</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_light_purple.svg" width="200"></td>
-<td valign="middle">CB light purple</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_dark_purple.svg" width="200"></td>
-<td valign="middle">CB dark purple</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_yellow.svg" width="200"></td>
-<td valign="middle">CB yellow</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_brown.svg" width="200"></td>
-<td valign="middle">CB brown</td>
-</tr>
-</table></details>
-<br />
-
-## Colorblind colors (two)
-*Provided by: alga group TU Eindhoven, Bettina Speckmann, Bram Custers, Irina Kostitsyna, Jules Wulms, Kevin Verbeek, Max Sondag, Thom Castermans, Tim Ophelders, Willem Sonke, Wouter Meulemans*
-
-Provides 5 colors. Aimed to be appropriate for color-blind users.
-
-<table>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Ultramarine_40.svg" width="200"></td>
-<td valign="middle">Ultramarine 40</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Indigo_50.svg" width="200"></td>
-<td valign="middle">Indigo 50</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Magenta_50.svg" width="200"></td>
-<td valign="middle">Magenta 50</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Orange_40.svg" width="200"></td>
-<td valign="middle">Orange 40</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Gold_20.svg" width="200"></td>
-<td valign="middle">Gold 20</td>
-</tr>
-</table>
-<br />
-
 ## Cyclic order colors
 *Provided by: Maarten Löffler*
 
@@ -3103,6 +3016,31 @@ Provides 33 colors.<details>
 </table></details>
 <br />
 
+## Presentation primary colors
+*Provided by: alga group TU Eindhoven, Primary Speckmann, Bram Custers, Irina Kostitsyna, Jules Wulms, Kevin Verbeek, Max Sondag, Thom Castermans, Tim Ophelders, Willem Sonke, Wouter Meulemans*
+
+Provides 4 primary colors, which are nicely distinguishable even on slightly sub-par beamers.
+
+<table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Primary_blue.svg" width="200"></td>
+<td valign="middle">Primary blue</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Primary_green.svg" width="200"></td>
+<td valign="middle">Primary green</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Primary_yellow.svg" width="200"></td>
+<td valign="middle">Primary yellow</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Primary_red.svg" width="200"></td>
+<td valign="middle">Primary red</td>
+</tr>
+</table>
+<br />
+
 ## Retro colors
 *Provided by: Soeren Terziadis*
 
@@ -3132,52 +3070,90 @@ Provides 5 colors of a retro color palette.
 </table>
 <br />
 
-## Shonan colors
+## Colorbrewer colors (two)
+*Provided by: alga group TU Eindhoven, Bettina Speckmann, Bram Custers, Irina Kostitsyna, Jules Wulms, Kevin Verbeek, Max Sondag, Thom Castermans, Tim Ophelders, Willem Sonke, Wouter Meulemans*
 
-Provides 4 colors from the logo of the Shonan Meeting.
+Provides 5 colors from the color brewer website (https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).
 
 <table>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C666666.svg" width="200"></td>
-<td valign="middle">C666666</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Ultramarine_40.svg" width="200"></td>
+<td valign="middle">Ultramarine 40</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C4353A1.svg" width="200"></td>
-<td valign="middle">C4353A1</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Indigo_50.svg" width="200"></td>
+<td valign="middle">Indigo 50</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C77CCFF.svg" width="200"></td>
-<td valign="middle">C77CCFF</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Magenta_50.svg" width="200"></td>
+<td valign="middle">Magenta 50</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C22AAEE.svg" width="200"></td>
-<td valign="middle">C22AAEE</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Orange_40.svg" width="200"></td>
+<td valign="middle">Orange 40</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Gold_20.svg" width="200"></td>
+<td valign="middle">Gold 20</td>
 </tr>
 </table>
 <br />
 
-## Presentation primary colors
-*Provided by: alga group TU Eindhoven, Primary Speckmann, Bram Custers, Irina Kostitsyna, Jules Wulms, Kevin Verbeek, Max Sondag, Thom Castermans, Tim Ophelders, Willem Sonke, Wouter Meulemans*
+## Colorbrewer colors
+*Provided by: alga group TU Eindhoven, Bettina Speckmann, Bram Custers, Irina Kostitsyna, Jules Wulms, Kevin Verbeek, Max Sondag, Thom Castermans, Tim Ophelders, Willem Sonke, Wouter Meulemans*
 
-Provides 4 primary colors, which are nicely distinguishable even on slightly sub-par beamers.
+Provides 12 colors from the color brewer website (https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).<details>
+<summary>Click for examples.</summary>
 
 <table>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Primary_blue.svg" width="200"></td>
-<td valign="middle">Primary blue</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_light_blue.svg" width="200"></td>
+<td valign="middle">CB light blue</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Primary_green.svg" width="200"></td>
-<td valign="middle">Primary green</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_dark_blue.svg" width="200"></td>
+<td valign="middle">CB dark blue</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Primary_yellow.svg" width="200"></td>
-<td valign="middle">Primary yellow</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_light_green.svg" width="200"></td>
+<td valign="middle">CB light green</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Primary_red.svg" width="200"></td>
-<td valign="middle">Primary red</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_dark_green.svg" width="200"></td>
+<td valign="middle">CB dark green</td>
 </tr>
-</table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_light_red.svg" width="200"></td>
+<td valign="middle">CB light red</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_dark_red.svg" width="200"></td>
+<td valign="middle">CB dark red</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_light_orange.svg" width="200"></td>
+<td valign="middle">CB light orange</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_dark_orange.svg" width="200"></td>
+<td valign="middle">CB dark orange</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_light_purple.svg" width="200"></td>
+<td valign="middle">CB light purple</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_dark_purple.svg" width="200"></td>
+<td valign="middle">CB dark purple</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_yellow.svg" width="200"></td>
+<td valign="middle">CB yellow</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_brown.svg" width="200"></td>
+<td valign="middle">CB brown</td>
+</tr>
+</table></details>
 <br />
 
