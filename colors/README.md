@@ -3103,31 +3103,6 @@ Provides 33 colors.<details>
 </table></details>
 <br />
 
-## Bettina Speckmann colors
-*Provided by: alga group TU Eindhoven, Bettina Speckmann, Bram Custers, Irina Kostitsyna, Jules Wulms, Kevin Verbeek, Max Sondag, Thom Castermans, Tim Ophelders, Willem Sonke, Wouter Meulemans*
-
-Provides 4 primary colors, which are nicely distinguishable even on slightly sub-par beamers.
-
-<table>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Bettina_blue.svg" width="200"></td>
-<td valign="middle">Bettina blue</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Bettina_green.svg" width="200"></td>
-<td valign="middle">Bettina green</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Bettina_yellow.svg" width="200"></td>
-<td valign="middle">Bettina yellow</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Bettina_red.svg" width="200"></td>
-<td valign="middle">Bettina red</td>
-</tr>
-</table>
-<br />
-
 ## Retro colors
 *Provided by: Soeren Terziadis*
 
@@ -3177,6 +3152,31 @@ Provides 4 colors from the logo of the Shonan Meeting.
 <tr>
 <td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C22AAEE.svg" width="200"></td>
 <td valign="middle">C22AAEE</td>
+</tr>
+</table>
+<br />
+
+## Presentation primary colors
+*Provided by: alga group TU Eindhoven, Primary Speckmann, Bram Custers, Irina Kostitsyna, Jules Wulms, Kevin Verbeek, Max Sondag, Thom Castermans, Tim Ophelders, Willem Sonke, Wouter Meulemans*
+
+Provides 4 primary colors, which are nicely distinguishable even on slightly sub-par beamers.
+
+<table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Primary_blue.svg" width="200"></td>
+<td valign="middle">Primary blue</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Primary_green.svg" width="200"></td>
+<td valign="middle">Primary green</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Primary_yellow.svg" width="200"></td>
+<td valign="middle">Primary yellow</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Primary_red.svg" width="200"></td>
+<td valign="middle">Primary red</td>
 </tr>
 </table>
 <br />
