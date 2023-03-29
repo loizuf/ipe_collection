@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg height="5" style="background-color:white" viewBox="0 0 5 5" width="5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <path d="M 0.199219 2 L 2 0.199219 L 3.800781 2 L 2 3.800781 Z M 0.199219 2 " fill="rgb(0%, 0%, 0%)" fill-opacity="1" fill-rule="evenodd"/>
+<svg height="72" style="background-color:white" viewBox="0 0 157 72" width="157" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <path d="M -14.214844 748.621094 L 142.214844 819.378906 " fill="none" stroke="rgb(0%, 0%, 100%)" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" stroke-width="0.4" transform="matrix(1, 0, 0, -1, 15, 820)"/>
+ <path d="M 142.214844 819.378906 L 134.878906 818.617188 L 136.796875 814.371094 Z M 142.214844 819.378906 " fill="rgb(0%, 0%, 100%)" fill-opacity="1" fill-rule="evenodd" stroke="rgb(0%, 0%, 100%)" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" stroke-width="0.4" transform="matrix(1, 0, 0, -1, 15, 820)"/>
 </svg>

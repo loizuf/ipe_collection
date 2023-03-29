@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg height="9" style="background-color:white" viewBox="0 0 10 9" width="10" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <g>
+   <g id="glyph-0-0">
+   </g>
+   <g id="glyph-0-1">
+    <path d="M 2.59375 -5.4375 C 2.59375 -5.65625 2.578125 -5.671875 2.375 -5.671875 C 1.84375 -5.125 1.0625 -5.125 0.796875 -5.125 L 0.796875 -4.859375 C 0.953125 -4.859375 1.46875 -4.859375 1.9375 -5.078125 L 1.9375 -0.6875 C 1.9375 -0.359375 1.90625 -0.265625 1.109375 -0.265625 L 0.84375 -0.265625 L 0.84375 0 C 1.15625 -0.03125 1.90625 -0.03125 2.25 -0.03125 C 2.609375 -0.03125 3.375 -0.03125 3.671875 0 L 3.671875 -0.265625 L 3.40625 -0.265625 C 2.609375 -0.265625 2.59375 -0.359375 2.59375 -0.6875 Z M 2.59375 -5.4375 "/>
+   </g>
+  </g>
+  <image height="32" id="source-5" width="32" x="0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABmJLR0QA/wD/AP+gvaeTAAAALklEQVRYhe3OQREAIAzAsMIhHJXoQcY+iYF2VbdBezJuwIABA1WnetMTAAAw6gORmAFueEJtowAAAABJRU5ErkJggg==" y="0"/>
+  <pattern height="32" id="pattern-0" patternTransform="matrix(0.766044, -0.642788, -0.0301307, -0.0359083, -59, 789)" patternUnits="userSpaceOnUse" viewBox="0 0 32 32" width="32" x="0" y="0">
+   <use xlink:href="#source-5"/>
+  </pattern>
+ </defs>
+ <path d="M 1.199219 1.199219 L 1.199219 8.796875 L 8.800781 8.796875 L 8.800781 1.199219 Z M 1.199219 1.199219 " fill="url(#pattern-0)" fill-rule="evenodd"/>
+ <g fill="rgb(0%, 0%, 0%)" fill-opacity="1">
+  <use x="2.81133" xlink:href="#glyph-0-1" y="7.74365"/>
+ </g>
+ <path d="M 60.199219 787.800781 L 60.199219 780.203125 L 67.800781 780.203125 L 67.800781 787.800781 Z M 60.199219 787.800781 " fill="none" stroke="rgb(0%, 0%, 0%)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" stroke-width="0.4" transform="matrix(1, 0, 0, -1, -59, 789)"/>
+</svg>
