@@ -1,83 +1,46 @@
-## Mossels marks
+## Boxed number marks
 *Provided by: Maarten Löffler*
 
-Provides box shaped marks with a number inside and a tiled backdrop. Includes nine color styles used by the marks.<details>
-<summary>Click for examples.</summary>
+Provides box shaped marks with a number inside and a tiled backdrop. Includes a tiling style used by the marks.
 
 <table>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-1(x).svg" width="200"></td>
-<td valign="middle">mark/mossel-1(x)</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markbox-1(sfx).svg" width="200"></td>
+<td valign="middle">mark/box-1(sfx)</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-2(x).svg" width="200"></td>
-<td valign="middle">mark/mossel-2(x)</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markbox-2(sfx).svg" width="200"></td>
+<td valign="middle">mark/box-2(sfx)</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-3(x).svg" width="200"></td>
-<td valign="middle">mark/mossel-3(x)</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markbox-3(sfx).svg" width="200"></td>
+<td valign="middle">mark/box-3(sfx)</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-4(x).svg" width="200"></td>
-<td valign="middle">mark/mossel-4(x)</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markbox-4(sfx).svg" width="200"></td>
+<td valign="middle">mark/box-4(sfx)</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-5(x).svg" width="200"></td>
-<td valign="middle">mark/mossel-5(x)</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markbox-5(sfx).svg" width="200"></td>
+<td valign="middle">mark/box-5(sfx)</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-6(x).svg" width="200"></td>
-<td valign="middle">mark/mossel-6(x)</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markbox-6(sfx).svg" width="200"></td>
+<td valign="middle">mark/box-6(sfx)</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-7(x).svg" width="200"></td>
-<td valign="middle">mark/mossel-7(x)</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markbox-7(sfx).svg" width="200"></td>
+<td valign="middle">mark/box-7(sfx)</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-8(x).svg" width="200"></td>
-<td valign="middle">mark/mossel-8(x)</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markbox-8(sfx).svg" width="200"></td>
+<td valign="middle">mark/box-8(sfx)</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markmossel-9(x).svg" width="200"></td>
-<td valign="middle">mark/mossel-9(x)</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markbox-9(sfx).svg" width="200"></td>
+<td valign="middle">mark/box-9(sfx)</td>
 </tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message1.svg" width="200"></td>
-<td valign="middle">message1</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message2.svg" width="200"></td>
-<td valign="middle">message2</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message3.svg" width="200"></td>
-<td valign="middle">message3</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message4.svg" width="200"></td>
-<td valign="middle">message4</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message5.svg" width="200"></td>
-<td valign="middle">message5</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message6.svg" width="200"></td>
-<td valign="middle">message6</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message7.svg" width="200"></td>
-<td valign="middle">message7</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message8.svg" width="200"></td>
-<td valign="middle">message8</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/message9.svg" width="200"></td>
-<td valign="middle">message9</td>
-</tr>
-</table></details>
+</table>
 <br />
 
 ## Button marks
@@ -308,6 +271,47 @@ Provides the emblems of the Empire (filled) and the Rebellion (solid) as marks.
 <tr>
 <td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markrebellion(sx).svg" width="200"></td>
 <td valign="middle">mark/rebellion(sx)</td>
+</tr>
+</table>
+<br />
+
+## Triangle marks
+*Provided by: Soeren Terziadis*
+
+Provides triangle marks pointing in 4 directions (solid and filled).
+
+<table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/marktriangle-left(sx).svg" width="200"></td>
+<td valign="middle">mark/triangle-left(sx)</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markftriangle-left(sfx).svg" width="200"></td>
+<td valign="middle">mark/ftriangle-left(sfx)</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/marktriangle-right(sx).svg" width="200"></td>
+<td valign="middle">mark/triangle-right(sx)</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markftriangle-right(sfx).svg" width="200"></td>
+<td valign="middle">mark/ftriangle-right(sfx)</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/marktriangle-down(sx).svg" width="200"></td>
+<td valign="middle">mark/triangle-down(sx)</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markftriangle-down(sfx).svg" width="200"></td>
+<td valign="middle">mark/ftriangle-down(sfx)</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/marktriangle-up(sx).svg" width="200"></td>
+<td valign="middle">mark/triangle-up(sx)</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/marks/markftriangle-up(sfx).svg" width="200"></td>
+<td valign="middle">mark/ftriangle-up(sfx)</td>
 </tr>
 </table>
 <br />
