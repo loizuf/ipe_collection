@@ -2636,31 +2636,6 @@ Provides an extensive list of the 657 X11 colors.<details>
 </table></details>
 <br />
 
-## Bettina Speckmann colors
-*Provided by: alga group TU Eindhoven, Bettina Speckmann, Bram Custers, Irina Kostitsyna, Jules Wulms, Kevin Verbeek, Max Sondag, Thom Castermans, Tim Ophelders, Willem Sonke, Wouter Meulemans*
-
-Provides 4 primary colors, which are nicely distinguishable even on slightly sub-par beamers.
-
-<table>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Bettina_blue.svg" width="200"></td>
-<td valign="middle">Bettina blue</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Bettina_green.svg" width="200"></td>
-<td valign="middle">Bettina green</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Bettina_yellow.svg" width="200"></td>
-<td valign="middle">Bettina yellow</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Bettina_red.svg" width="200"></td>
-<td valign="middle">Bettina red</td>
-</tr>
-</table>
-<br />
-
 ## Extended colors
 *Provided by: alga group TU Eindhoven, Bettina Speckmann, Bram Custers, Irina Kostitsyna, Jules Wulms, Kevin Verbeek, Max Sondag, Thom Castermans, Tim Ophelders, Willem Sonke, Wouter Meulemans*
 
@@ -2986,6 +2961,59 @@ Provides 9 colors of brick, mortar, steel, lasers and ghosts.
 </table>
 <br />
 
+## Retro colors
+*Provided by: Soeren Terziadis*
+
+Provides 5 colors of a retro color palette.
+
+<table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/GREEN.svg" width="200"></td>
+<td valign="middle">GREEN</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/BROWN.svg" width="200"></td>
+<td valign="middle">BROWN</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/SAND.svg" width="200"></td>
+<td valign="middle">SAND</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/ORANGE.svg" width="200"></td>
+<td valign="middle">ORANGE</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/RED.svg" width="200"></td>
+<td valign="middle">RED</td>
+</tr>
+</table>
+<br />
+
+## Shonan colors
+
+Provides 4 colors from the logo of the Shonan Meeting.
+
+<table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C666666.svg" width="200"></td>
+<td valign="middle">C666666</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C4353A1.svg" width="200"></td>
+<td valign="middle">C4353A1</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C77CCFF.svg" width="200"></td>
+<td valign="middle">C77CCFF</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C22AAEE.svg" width="200"></td>
+<td valign="middle">C22AAEE</td>
+</tr>
+</table>
+<br />
+
 ## Philipp Kindermann/Jonathan Klawitter colors
 *Provided by: Philipp Kindermann, Jonathan Klawitter*
 
@@ -3128,55 +3156,27 @@ Provides 33 colors.<details>
 </table></details>
 <br />
 
-## Retro colors
-*Provided by: Soeren Terziadis*
+## Bettina Speckmann colors
+*Provided by: alga group TU Eindhoven, Bettina Speckmann, Bram Custers, Irina Kostitsyna, Jules Wulms, Kevin Verbeek, Max Sondag, Thom Castermans, Tim Ophelders, Willem Sonke, Wouter Meulemans*
 
-Provides 5 colors of a retro color palette.
-
-<table>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/GREEN.svg" width="200"></td>
-<td valign="middle">GREEN</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/BROWN.svg" width="200"></td>
-<td valign="middle">BROWN</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/SAND.svg" width="200"></td>
-<td valign="middle">SAND</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/ORANGE.svg" width="200"></td>
-<td valign="middle">ORANGE</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/RED.svg" width="200"></td>
-<td valign="middle">RED</td>
-</tr>
-</table>
-<br />
-
-## Shonan colors
-
-Provides 4 colors from the logo of the Shonan Meeting.
+Provides 4 primary colors, which are nicely distinguishable even on slightly sub-par beamers.
 
 <table>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C666666.svg" width="200"></td>
-<td valign="middle">C666666</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Bettina_blue.svg" width="200"></td>
+<td valign="middle">Bettina blue</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C4353A1.svg" width="200"></td>
-<td valign="middle">C4353A1</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Bettina_green.svg" width="200"></td>
+<td valign="middle">Bettina green</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C77CCFF.svg" width="200"></td>
-<td valign="middle">C77CCFF</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Bettina_yellow.svg" width="200"></td>
+<td valign="middle">Bettina yellow</td>
 </tr>
 <tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C22AAEE.svg" width="200"></td>
-<td valign="middle">C22AAEE</td>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Bettina_red.svg" width="200"></td>
+<td valign="middle">Bettina red</td>
 </tr>
 </table>
 <br />
