@@ -15,10 +15,10 @@ To keep the collection organized we made up some general guidelines to harmonize
 The stylefiles are loosely sorted into the following categories.
 
 ### Angles
-Stylesheets that modifiy the possible angle values for Ipe's angular snap.
+Stylesheets that modifiy the possible angle values for Ipe's angular snap ([Angular snap in the Ipe manual](https://ipe.otfried.org/manual/manual_25.html)).
 
 ### Arrowheads
-Contains stylefiles that provide additional and different arrowhead shapes (and placements).
+Contains stylefiles that provide additional and different arrowhead shapes (and placements). These are useful for drawing directed graph edges, distance indicators, etc...
 
 ### Backgrounds
 Stylesheets that set a specific background for the Ipe canvas. 
@@ -61,3 +61,28 @@ Different text styles (e.g. bold, italic, right to left, etc.), text sizes and o
 
 ### Tilings
 Different tiling patterns for filled objects in IPE.
+
+## Naming Scheme and Format
+All files in this repository are named as follows:
+
+`[attribute_type]_[name]_[number_of_defined_attributes].isy`
+
+All style files in this repository start with a documenation containing:
+- the title of the file that is displayed in Ipe (this is different from the file name)
+- description of the attributes defined in this file
+- a list of original contributors
+- lists of the type and number of defined attributes
+
+This documentation is entirely contained within a comment block. The documentation is not necessary for Ipe to be able to read the file, but is required in this repository, to create previews of the styles. An example is shown below
+
+```
+<!-- ipecol
+    {
+        "title" : "NAME",
+        "description" : "Provides some anglesize styles.",
+        "provided_by" : ["Contributor One"],
+        "style_count" : [5],
+        "style_types" : ["anglesize"]
+    }
+-->
+```
