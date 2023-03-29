@@ -18,7 +18,7 @@ The stylefiles are loosely sorted into the following categories.
 Stylesheets that modifiy the possible angle values for Ipe's angular snap.
 
 ### Arrowheads
-Contains stylefiles that provide additional and different arrowhead shapes.
+Contains stylefiles that provide additional and different arrowhead shapes (and placements).
 
 ### Backgrounds
 Stylesheets that set a specific background for the Ipe canvas. 
