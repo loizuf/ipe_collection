@@ -8,6 +8,8 @@ To use a stylefile download it and import it via "Edit -> Stylesheets" (Shortcut
 ## Contribution
 If you have an useful and/or interesting stylesheet that you would be happy to contribute to this collection (for example if you adapted one of the style files in this repository), you can either email us directly or open a new discussion on this repository.
 
+Most stylesheets in this repository contain only one type of defined attribute (see below) and are documented at the beginning of the file (see further below). We are happy to recieve any contribution. Submitted stylesheets might be split or slightly changed to fit the standard of this repository. 
+
 ## Categories
 The stylesheets are loosely sorted into the following categories.
 
