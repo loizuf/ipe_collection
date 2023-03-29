@@ -2961,59 +2961,6 @@ Provides 9 colors of brick, mortar, steel, lasers and ghosts.
 </table>
 <br />
 
-## Retro colors
-*Provided by: Soeren Terziadis*
-
-Provides 5 colors of a retro color palette.
-
-<table>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/GREEN.svg" width="200"></td>
-<td valign="middle">GREEN</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/BROWN.svg" width="200"></td>
-<td valign="middle">BROWN</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/SAND.svg" width="200"></td>
-<td valign="middle">SAND</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/ORANGE.svg" width="200"></td>
-<td valign="middle">ORANGE</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/RED.svg" width="200"></td>
-<td valign="middle">RED</td>
-</tr>
-</table>
-<br />
-
-## Shonan colors
-
-Provides 4 colors from the logo of the Shonan Meeting.
-
-<table>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C666666.svg" width="200"></td>
-<td valign="middle">C666666</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C4353A1.svg" width="200"></td>
-<td valign="middle">C4353A1</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C77CCFF.svg" width="200"></td>
-<td valign="middle">C77CCFF</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C22AAEE.svg" width="200"></td>
-<td valign="middle">C22AAEE</td>
-</tr>
-</table>
-<br />
-
 ## Philipp Kindermann/Jonathan Klawitter colors
 *Provided by: Philipp Kindermann, Jonathan Klawitter*
 
@@ -3177,6 +3124,59 @@ Provides 4 primary colors, which are nicely distinguishable even on slightly sub
 <tr>
 <td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Bettina_red.svg" width="200"></td>
 <td valign="middle">Bettina red</td>
+</tr>
+</table>
+<br />
+
+## Retro colors
+*Provided by: Soeren Terziadis*
+
+Provides 5 colors of a retro color palette.
+
+<table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/GREEN.svg" width="200"></td>
+<td valign="middle">GREEN</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/BROWN.svg" width="200"></td>
+<td valign="middle">BROWN</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/SAND.svg" width="200"></td>
+<td valign="middle">SAND</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/ORANGE.svg" width="200"></td>
+<td valign="middle">ORANGE</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/RED.svg" width="200"></td>
+<td valign="middle">RED</td>
+</tr>
+</table>
+<br />
+
+## Shonan colors
+
+Provides 4 colors from the logo of the Shonan Meeting.
+
+<table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C666666.svg" width="200"></td>
+<td valign="middle">C666666</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C4353A1.svg" width="200"></td>
+<td valign="middle">C4353A1</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C77CCFF.svg" width="200"></td>
+<td valign="middle">C77CCFF</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/C22AAEE.svg" width="200"></td>
+<td valign="middle">C22AAEE</td>
 </tr>
 </table>
 <br />
