@@ -1,6 +1,6 @@
 <!-- ipecol
     {
-        "title" : "Poster A0",
+        "title" : "Poster A0 (landscape)",
         "description" : "A template for an A0 poster. Provides colors, dashstyles, linewidths, gridsizes, anglesizes for angular snapping, tilings, textstyles, symbols opacities and scales up text, symbol and arrow sizes. The layout is changed to a portrait Din-A0 format. The style is intended to be used as a replacement of 'basic.isy'.",
         "provided_by" : ["Soeren Terziadis"],
         "style_count" : [27, 4, 4, 4, 4, 4, 4, 7, 5, 2, 4, 7, 8, 4, 1],
@@ -9,7 +9,7 @@
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
-<ipestyle name="Poster A0">
+<ipestyle name="Poster A0 (landscape)">
 <color name="red" value="1 0 0"/>
 <color name="green" value="0 1 0"/>
 <color name="blue" value="0 0 1"/>
