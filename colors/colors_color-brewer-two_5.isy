@@ -1,7 +1,7 @@
 <!-- ipecol
     {
-        "title" : "Colorblind colors (two)",
-        "description" : "Provides 5 colors. Aimed to be appropriate for color-blind users.",
+        "title" : "Colorbrewer colors (two)",
+        "description" : "Provides 5 colors from the color brewer website (https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).",
         "provided_by" : ["alga group TU Eindhoven", "Bettina Speckmann", "Bram Custers", "Irina Kostitsyna", "Jules Wulms", "Kevin Verbeek", "Max Sondag", "Thom Castermans", "Tim Ophelders", "Willem Sonke", "Wouter Meulemans"],
         "style_count" : [5],
         "style_types" : ["color"]
@@ -9,7 +9,7 @@
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
-<ipestyle name="Colorblind colors (two)">
+<ipestyle name="Colorbrewer colors (two)">
 <color name="Ultramarine 40" value="0.39 0.56 1"/>
 <color name="Indigo 50" value="0.47 0.37 0.94"/>
 <color name="Magenta 50" value="0.86 0.15 0.5"/>

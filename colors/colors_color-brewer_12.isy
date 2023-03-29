@@ -1,7 +1,7 @@
 <!-- ipecol
     {
-        "title" : "Colorblind colors",
-        "description" : "Provides 12 colors. Aimed to be appropriate for color-blind users.",
+        "title" : "Colorbrewer colors",
+        "description" : "Provides 12 colors from the color brewer website (https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).",
         "provided_by" : ["alga group TU Eindhoven", "Bettina Speckmann", "Bram Custers", "Irina Kostitsyna", "Jules Wulms", "Kevin Verbeek", "Max Sondag", "Thom Castermans", "Tim Ophelders", "Willem Sonke", "Wouter Meulemans"],
         "style_count" : [12],
         "style_types" : ["color"]
@@ -9,7 +9,7 @@
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
-<ipestyle name="Colorblind colors">
+<ipestyle name="Colorbrewer colors">
 <color name="CB light blue" value="0.651 0.807 0.89"/>
 <color name="CB dark blue" value="0.121 0.47 0.705"/>
 <color name="CB light green" value="0.698 0.874 0.541"/>
