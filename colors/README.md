@@ -2742,6 +2742,93 @@ Provides 13 colors and 11 shades of Gray. Originally created for use in cartogra
 </table></details>
 <br />
 
+## Colorbrewer colors (two)
+*Provided by: alga group TU Eindhoven, Bettina Speckmann, Bram Custers, Irina Kostitsyna, Jules Wulms, Kevin Verbeek, Max Sondag, Thom Castermans, Tim Ophelders, Willem Sonke, Wouter Meulemans*
+
+Provides 5 colors from the color brewer website (https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).
+
+<table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Ultramarine_40.svg" width="200"></td>
+<td valign="middle">Ultramarine 40</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Indigo_50.svg" width="200"></td>
+<td valign="middle">Indigo 50</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Magenta_50.svg" width="200"></td>
+<td valign="middle">Magenta 50</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Orange_40.svg" width="200"></td>
+<td valign="middle">Orange 40</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Gold_20.svg" width="200"></td>
+<td valign="middle">Gold 20</td>
+</tr>
+</table>
+<br />
+
+## Colorbrewer colors
+*Provided by: alga group TU Eindhoven, Bettina Speckmann, Bram Custers, Irina Kostitsyna, Jules Wulms, Kevin Verbeek, Max Sondag, Thom Castermans, Tim Ophelders, Willem Sonke, Wouter Meulemans*
+
+Provides 12 colors from the color brewer website (https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).<details>
+<summary>Click for examples.</summary>
+
+<table>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_light_blue.svg" width="200"></td>
+<td valign="middle">CB light blue</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_dark_blue.svg" width="200"></td>
+<td valign="middle">CB dark blue</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_light_green.svg" width="200"></td>
+<td valign="middle">CB light green</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_dark_green.svg" width="200"></td>
+<td valign="middle">CB dark green</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_light_red.svg" width="200"></td>
+<td valign="middle">CB light red</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_dark_red.svg" width="200"></td>
+<td valign="middle">CB dark red</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_light_orange.svg" width="200"></td>
+<td valign="middle">CB light orange</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_dark_orange.svg" width="200"></td>
+<td valign="middle">CB dark orange</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_light_purple.svg" width="200"></td>
+<td valign="middle">CB light purple</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_dark_purple.svg" width="200"></td>
+<td valign="middle">CB dark purple</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_yellow.svg" width="200"></td>
+<td valign="middle">CB yellow</td>
+</tr>
+<tr>
+<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_brown.svg" width="200"></td>
+<td valign="middle">CB brown</td>
+</tr>
+</table></details>
+<br />
+
 ## Cyclic order colors
 *Provided by: Maarten Löffler*
 
@@ -3068,92 +3155,5 @@ Provides 5 colors of a retro color palette.
 <td valign="middle">RED</td>
 </tr>
 </table>
-<br />
-
-## Colorbrewer colors (two)
-*Provided by: alga group TU Eindhoven, Bettina Speckmann, Bram Custers, Irina Kostitsyna, Jules Wulms, Kevin Verbeek, Max Sondag, Thom Castermans, Tim Ophelders, Willem Sonke, Wouter Meulemans*
-
-Provides 5 colors from the color brewer website (https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).
-
-<table>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Ultramarine_40.svg" width="200"></td>
-<td valign="middle">Ultramarine 40</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Indigo_50.svg" width="200"></td>
-<td valign="middle">Indigo 50</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Magenta_50.svg" width="200"></td>
-<td valign="middle">Magenta 50</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Orange_40.svg" width="200"></td>
-<td valign="middle">Orange 40</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/Gold_20.svg" width="200"></td>
-<td valign="middle">Gold 20</td>
-</tr>
-</table>
-<br />
-
-## Colorbrewer colors
-*Provided by: alga group TU Eindhoven, Bettina Speckmann, Bram Custers, Irina Kostitsyna, Jules Wulms, Kevin Verbeek, Max Sondag, Thom Castermans, Tim Ophelders, Willem Sonke, Wouter Meulemans*
-
-Provides 12 colors from the color brewer website (https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3).<details>
-<summary>Click for examples.</summary>
-
-<table>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_light_blue.svg" width="200"></td>
-<td valign="middle">CB light blue</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_dark_blue.svg" width="200"></td>
-<td valign="middle">CB dark blue</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_light_green.svg" width="200"></td>
-<td valign="middle">CB light green</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_dark_green.svg" width="200"></td>
-<td valign="middle">CB dark green</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_light_red.svg" width="200"></td>
-<td valign="middle">CB light red</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_dark_red.svg" width="200"></td>
-<td valign="middle">CB dark red</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_light_orange.svg" width="200"></td>
-<td valign="middle">CB light orange</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_dark_orange.svg" width="200"></td>
-<td valign="middle">CB dark orange</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_light_purple.svg" width="200"></td>
-<td valign="middle">CB light purple</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_dark_purple.svg" width="200"></td>
-<td valign="middle">CB dark purple</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_yellow.svg" width="200"></td>
-<td valign="middle">CB yellow</td>
-</tr>
-<tr>
-<td valign="middle"><img src="https://github.com/loizuf/ipe_collection/blob/assets/colors/CB_brown.svg" width="200"></td>
-<td valign="middle">CB brown</td>
-</tr>
-</table></details>
 <br />
 
