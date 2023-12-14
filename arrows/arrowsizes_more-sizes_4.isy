@@ -1,0 +1,17 @@
+<!-- ipecol
+    {
+        "title" : "More arrow sizes",
+        "description" : "Provides 4 more arrowsizes (2 larger, 2 smaller).",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [4],
+        "style_types" : ["assowsize"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="More arrow sizes">
+<arrowsize name="massive" value="18"/>
+<arrowsize name="larger" value="13"/>
+<arrowsize name="tinier" value="2"/>
+<arrowsize name="tiniest" value="1"/>
+</ipestyle>

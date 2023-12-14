@@ -1,0 +1,26 @@
+<!-- ipecol
+    {
+        "title" : "Poster dashes",
+        "description" : "Provides 13 dash styles of dashed, dotted and mixed lines in different densities for use in a large-format poster. The dashes are upscaled by a factor of 4 compared to the normal dash styles.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [13],
+        "style_types" : ["dashstyle"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="Poster dashes">
+<dashstyle name="dashed" value="[32] 0"/>
+<dashstyle name="dotted" value="[8 24] 0"/>
+<dashstyle name="dash dotted" value="[32 16 8 16] 0"/>
+<dashstyle name="dash dot dotted" value="[36 16 8 16 8 16] 0"/>
+<dashstyle name="long dashed" value="[48] 0"/>
+<dashstyle name="long dash dotted" value="[48 24 4 24] 0"/>
+<dashstyle name="dense dotted" value="[2 2] 0"/>
+<dashstyle name="medium dotted" value="[4 6] 0"/>
+<dashstyle name="dense dashed" value="[36 12] 0"/>
+<dashstyle name="dashed-narrow" value="[8] 0"/>
+<dashstyle name="dotted-narrow" value="[4 4] 0"/>
+<dashstyle name="dashed-narrower" value="[4] 0"/>s
+<dashstyle name="dotted-narrower" value="[2 2] 0"/>
+</ipestyle>
