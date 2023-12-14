@@ -1,15 +1,15 @@
 <!-- ipecol
     {
-        "title" : "Poster A0 (landscape)",
+        "title" : "Poster A0",
         "description" : "A template for an A0 poster. Provides colors, dashstyles, linewidths, gridsizes, anglesizes for angular snapping, tilings, textstyles, symbols opacities and scales up text, symbol and arrow sizes. The layout is changed to a portrait Din-A0 format. The style is intended to be used as a replacement of 'basic.isy'.",
         "provided_by" : ["Soeren Terziadis"],
-        "style_count" : [27, 4, 4, 4, 4, 4, 4, 7, 5, 2, 4, 7, 8, 4, 1],
+        "style_count" : [27, 13, 4, 9, 10, 4, 4, 12, 5, 2, 4, 7, 8, 4, 1],
         "style_types" : ["color", "dashstyle", "pen", "textsize", "textstretch", "symbolsize", "arrowsize", "gridsize", "anglesize", "tiling", "textstyle", "symbol(mark)", "symbol(arrow)", "opacity", "layout"]
     }
 -->
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
-<ipestyle name="Poster A0 (landscape)">
+<ipestyle name="Poster A0">
 <color name="red" value="1 0 0"/>
 <color name="green" value="0 1 0"/>
 <color name="blue" value="0 0 1"/>
@@ -37,34 +37,58 @@
 <color name="lightgreen" value="0.565 0.933 0.565"/>
 <color name="lightyellow" value="1 1 0.878"/>
 <color name="title" value="0.4 0 0.4"/>
-<dashstyle name="dashed" value="[8] 0"/>
-<dashstyle name="dotted" value="[2 6] 0"/>
-<dashstyle name="dash dotted" value="[8 4 2 4] 0"/>
-<dashstyle name="dash dot dotted" value="[8 4 2 4 2 4] 0"/>
+<dashstyle name="dashed" value="[32] 0"/>
+<dashstyle name="dotted" value="[8 24] 0"/>
+<dashstyle name="dash dotted" value="[32 16 8 16] 0"/>
+<dashstyle name="dash dot dotted" value="[36 16 8 16 8 16] 0"/>
+<dashstyle name="long dashed" value="[48] 0"/>
+<dashstyle name="long dash dotted" value="[48 24 4 24] 0"/>
+<dashstyle name="dense dotted" value="[2 2] 0"/>
+<dashstyle name="medium dotted" value="[4 6] 0"/>
+<dashstyle name="dense dashed" value="[36 12] 0"/>
+<dashstyle name="dashed-narrow" value="[8] 0"/>
+<dashstyle name="dotted-narrow" value="[4 4] 0"/>
+<dashstyle name="dashed-narrower" value="[4] 0"/>
+<dashstyle name="dotted-narrower" value="[2 2] 0"/>
 <pen name="normal" value="2.4"/>
 <pen name="heavier" value="4.8"/>
 <pen name="fat" value="7.2"/>
 <pen name="ultrafat" value="12"/>
-<textsize name="normal" value="\normalsize"/>
 <textsize name="large" value="\large"/>
-<textsize name="huge" value="\LARGE"/>
-<textsize name="small" value="\normalsize"/>
+<textsize name="Large" value="\Large"/>
+<textsize name="LARGE" value="\LARGE"/>
+<textsize name="huge" value="\huge"/>
+<textsize name="Huge" value="\Huge"/>
+<textsize name="small" value="\small"/>
+<textsize name="footnote" value="\footnotesize"/>
+<textsize name="script" value="\scriptsize"/>
+<textsize name="tiny" value="\tiny"/>
 <textstretch name="normal" value="5"/>
 <textstretch name="large" value="5"/>
+<textstretch name="Large" value="5"/>
+<textstretch name="LARGE" value="5"/>
 <textstretch name="huge" value="5"/>
-<textstretch name="small" value="4.5"/>
-<symbolsize name="normal" value="12"/>
+<textstretch name="Huge" value="5"/>
+<textstretch name="small" value="5"/>
+<textstretch name="footnote" value="5"/>
+<textstretch name="script" value="5"/>
+<textstretch name="tiny" value="5"/>
+<symbolsize name="normal" value="15"/>
 <symbolsize name="large" value="20"/>
-<symbolsize name="small" value="9"/>
-<symbolsize name="tiny" value="4.4"/>
-<arrowsize name="normal" value="20"/>
-<arrowsize name="large" value="24"/>
-<arrowsize name="small" value="13"/>
-<arrowsize name="tiny" value="9"/>
-<gridsize name="16 pts (~6 mm)" value="16"/>
-<gridsize name="32 pts (~12 mm)" value="32"/>
+<symbolsize name="small" value="10"/>
+<symbolsize name="tiny" value="5"/>
+<arrowsize name="normal" value="25"/>
+<arrowsize name="large" value="35"/>
+<arrowsize name="small" value="15"/>
+<arrowsize name="tiny" value="10"/>
+<gridsize name="8 pts (~2.8 mm)" value="8"/>
+<gridsize name="16 pts (~5.6 mm)" value="16"/>
+<gridsize name="32 pts (~11.3 mm)" value="32"/>
+<gridsize name="64 pts (~22.6 mm)" value="64"/>
+<gridsize name="5 pts (~1.8 mm)" value="5"/>
 <gridsize name="10 pts (~3.5 mm)" value="10"/>
-<gridsize name="20 pts (~7 mm)" value="20"/>
+<gridsize name="20 pts (~7.1 mm)" value="20"/>
+<gridsize name="40 pts (~14.1 mm)" value="40"/>
 <gridsize name="14 pts (~5 mm)" value="14"/>
 <gridsize name="28 pts (~10 mm)" value="28"/>
 <gridsize name="56 pts (~20 mm)" value="56"/>
@@ -145,5 +169,5 @@
 <opacity name="30%" value="0.3"/>
 <opacity name="50%" value="0.5"/>
 <opacity name="75%" value="0.75"/>
-<layout paper="3370 2384" origin="60 60" frame="3250 2264"/></ipestyle>
+<layout paper="2384 3370" origin="60 60" frame="2264 3250"/></ipestyle>
 </ipestyle>
