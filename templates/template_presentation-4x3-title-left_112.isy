@@ -4,7 +4,7 @@
         "description" : "A template for a presentation. This style slightly changes the style included in the ipe installation such that the title is displayed on the left. Provides colors, dashstyles, linewidths, gridsizes, anglesizes for angular snapping, tilings, textstyles, symbols opacities and scales up text, symbol and arrow sizes. The layout is changed to a landscape slide format (16:9). The style is intended to be used as a replacement of 'basic.isy'.",
         "provided_by" : ["Otfried Cheong", "Fabian Klute", "Martin Nöllenburg", "Soeren Terziadis"],
         "style_count" : [27, 13, 4, 9, 10, 4, 4, 7, 5, 2, 4, 7, 8, 4, 1, 1, 1, 1],
-        "style_types" : ["color", "dashstyle", "pen", "textsize", "textstretch", "symbolsize", "arrowsize", "gridsize", "anglesize", "tiling", "textstyle", "symbol(mark)", "symbol(arrow)", "opacity", "preamble", "layout", "pagenumberstyle" "titlestyle"]
+        "style_types" : ["color", "dashstyle", "pen", "textsize", "textstretch", "symbolsize", "arrowsize", "gridsize", "anglesize", "tiling", "textstyle", "symbol(mark)", "symbol(arrow)", "opacity", "layout", "pagenumberstyle", "titlestyle", "preamble"]
     }
 -->
 <?xml version="1.0"?>
@@ -164,39 +164,10 @@
 <opacity name="30%" value="0.3"/>
 <opacity name="50%" value="0.5"/>
 <opacity name="75%" value="0.75"/>
-<preamble>
-
-\newcommand{\name}{My Name}
-\newcommand{\prestitle}{My cool title}
-
-\renewcommand\rmdefault{cmss}
-\makeatletter
-\leftmargini 1.5em
-\leftmargin \leftmargini
-\leftmarginii  1.2em
-\leftmarginiii 1em
-\def\@listI{\leftmargin\leftmargini
-            \parsep \z@
-	    \partopsep 3pt
-	    \topsep \z@
-            \itemsep \z@}
-\@listI
-\def\@listii {\leftmargin\leftmarginii
-              \labelwidth\leftmarginii
-              \advance\labelwidth-\labelsep
-              \topsep    \z@
-              \parsep    \z@
-              \itemsep   \parsep}
-\def\@listiii{\leftmargin\leftmarginiii
-              \labelwidth\leftmarginiii
-              \advance\labelwidth-\labelsep
-              \topsep    \z@
-              \parsep    \z@
-              \partopsep \z@
-              \itemsep   \topsep}
-\makeatother
-</preamble>
 <layout paper="960 720" origin="32 32" frame="896 622" skip="32" crop="no"/>
 <pagenumberstyle pos="-12 -12" color="0" size="9" valign="baseline">\arabic{ipePage}</pagenumberstyle>
 <titlestyle pos="0 640" size="large" color="black"  valign="baseline"/>
+<preamble>
+\renewcommand\rmdefault{cmss}
+</preamble>
 </ipestyle>
