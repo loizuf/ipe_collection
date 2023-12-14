@@ -1,7 +1,7 @@
 <!-- ipecol
     {
         "title" : "Circular mid arrow heads",
-        "description" : "Provides 3 middle circular arrow head styles.",
+        "description" : "Provides 3 circular middle arrow head styles.",
         "provided_by" : ["unknown"],
         "style_count" : [3],
         "style_types" : ["symbol(arrow)"]

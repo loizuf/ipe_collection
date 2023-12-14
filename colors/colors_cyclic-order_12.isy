@@ -10,16 +10,16 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipestyle SYSTEM "ipe.dtd">
 <ipestyle name="Cyclic order colors">
-<color name="message1" value="0.60 0.20 0.20"/>
-<color name="message2" value="0.60 0.40 0.20"/>
-<color name="message3" value="0.60 0.60 0.20"/>
-<color name="message4" value="0.40 0.60 0.20"/>
-<color name="message5" value="0.20 0.60 0.20"/>
-<color name="message6" value="0.20 0.60 0.40"/>
-<color name="message7" value="0.20 0.60 0.60"/>
-<color name="message8" value="0.20 0.40 0.60"/>
-<color name="message9" value="0.20 0.20 0.60"/>
-<color name="message10" value="0.40 0.20 0.60"/>
-<color name="message11" value="0.60 0.20 0.60"/>
-<color name="message12" value="0.60 0.20 0.40"/>
+<color name="cyclic-1" value="0.60 0.20 0.20"/>
+<color name="cyclic-2" value="0.60 0.40 0.20"/>
+<color name="cyclic-3" value="0.60 0.60 0.20"/>
+<color name="cyclic-4" value="0.40 0.60 0.20"/>
+<color name="cyclic-5" value="0.20 0.60 0.20"/>
+<color name="cyclic-6" value="0.20 0.60 0.40"/>
+<color name="cyclic-7" value="0.20 0.60 0.60"/>
+<color name="cyclic-8" value="0.20 0.40 0.60"/>
+<color name="cyclic-9" value="0.20 0.20 0.60"/>
+<color name="cyclic-10" value="0.40 0.20 0.60"/>
+<color name="cyclic-11" value="0.60 0.20 0.60"/>
+<color name="cyclic-12" value="0.60 0.20 0.40"/>
 </ipestyle>

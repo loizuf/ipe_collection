@@ -1,7 +1,7 @@
 <!-- ipecol
     {
         "title" : "Multiple of 5 angles",
-        "description" : "Provides 5 additional angles which are multiples of 5.",
+        "description" : "Provides 5 additional angles which are multiples of 5, specifically 5, 10, 15, 20 and 25 degrees.",
         "provided_by" : ["Fabian Klute"],
         "style_count" : [5],
         "style_types" : ["anglesize"]
