@@ -1,0 +1,13 @@
+<!-- ipecol
+    {
+        "title" : "LIPIcs margins",
+        "description" : "Sets canvas size to DIN A4 format and restricts frame to the margins of the LIPIcs template.",
+        "provided_by" : ["Soeren Terziadis"],
+        "style_count" : [1],
+        "style_types" : ["layout"]
+    }
+-->
+<?xml version="1.0"?>
+<!DOCTYPE ipestyle SYSTEM "ipe.dtd">
+<ipestyle name="LIPIcs margins">
+<layout paper="597 845" origin="100 107" frame="398 631"/></ipestyle>
